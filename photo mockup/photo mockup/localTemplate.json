@@ -1,0 +1,2550 @@
+﻿{
+  "items": [
+    {
+      "categoryName": "Birthday",
+      "categoryId": "birthday_id",
+      "categoryImage": "/birthday/icon tmp_bday_line_fill.png",
+      "isPremium": 0,
+      "items": [
+        {
+          "index": 1,
+          "postImage": "/birthday/1/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/1/1_bg.png"
+          },
+          "fg": {
+            "path": "/birthday/1/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": ""
+              },
+              "fg": {
+                "path": "/birthday/1/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 52.00,
+              "offsetX": -5.00,
+              "offsetY": 32.00,
+              "angle": 5
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": -5.00,
+              "offsetY": 75.00,
+              "width": 32,
+              "height": 32,
+              "path": "/birthday/1/3_element_3.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": 19.00,
+              "offsetY": 28.00,
+              "width":5,
+              "height": 7,
+              "path":"/birthday/1/3_element_2.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": 2.00,
+              "offsetY": 1.00,
+              "width": 25,
+              "height": 25,
+              "path":"/birthday/1/4_text.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/birthday/2/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/2/1_bg.png"
+          },
+          "fg": {
+            "path": "/birthday/2/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#C576F6",
+                "path": "/birthday/2/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/birthday/2/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 71.00,
+              "height": 66.00,
+              "offsetX": 26.00,
+              "offsetY": 28.00,
+              "angle": 0
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 56.00,
+              "offsetY": 10.00,
+              "width": 20,
+              "height": 16,
+              "path": "/birthday/2/4_text.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/birthday/3/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/3/1_bg.png"
+          },
+          "fg": {
+            "path": "/birthday/3/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#92734b",
+                "path": ""
+              },
+              "fg": {
+                "path": "/birthday/3/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 90.00,
+              "height": 51.00,
+              "offsetX": 5.00,
+              "offsetY": 10.00,
+              "angle": 5,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.00,
+                "start": 1.00
+              }
+
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Happy\nBirthday!",
+              "offsetX": 18.00,
+              "offsetY": 67.00,
+              "width": 60.00,
+              "height": 20.00,
+              "textColor": "#d9aa80",
+              "scale": 1.0,
+              "fontPath": "/birthday/3/SwashingtonCP.ttf",
+              "textSize": 36.0,
+              "isLock": false,
+              "angle": 0
+            }, {
+              "text": "Wishing you a beautiful day with \ngood health and happiness forever.\nHappy birthday!",
+              "offsetX": 5.00,
+              "offsetY": 86.00,
+              "width": 90.00,
+              "height": 10.00,
+              "textColor": "#d9aa80",
+              "fontPath": "/birthday/3/Poppins-SemiBold.ttf",
+              "scale": 1.0,
+              "textSize": 14.0,
+              "isLock": false,
+              "angle": 0
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 16.00,
+              "offsetY": 55.00,
+              "width": 10,
+              "height": 11,
+              "path": "/birthday/3/3_element_2.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 1.00,
+              "offsetY": 22.00,
+              "path": "/birthday/3/3_element_3.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/birthday/4/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/birthday/4/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/birthday/4/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 44.00,
+              "offsetX": 10.00,
+              "offsetY": 28.00
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 10.00,
+              "height": 9.34,
+              "path": "/birthday/4/3_element_1.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 73.00,
+              "offsetY": 80.00,
+              "width": 12.00,
+              "height": 20.00,
+              "path": "/birthday/4/3_element_2.png",
+              "angle": 0
+            } ,{
+              "isLock": false,
+              "offsetX": -5.00,
+              "offsetY": 75.00,
+              "width": 10.00,
+              "height":20.00,
+              "path": "/birthday/4/3_element_3.png",
+              "angle": 0
+            } ,{
+              "isLock": false,
+              "offsetX": 91.00,
+              "offsetY": 25.00,
+              "width": 8.00,
+              "height": 16.00,
+              "path": "/birthday/4/3_element_4.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": -6.00,
+              "offsetY": 13.00,
+              "width": 10.00,
+              "height": 20.00,
+              "path": "/birthday/4/3_element_5.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": 0.70,
+              "offsetY": 20.50,
+              "width": 15.00,
+              "height": 18.00,
+              "path": "/birthday/4/3_element_6.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": 68.00,
+              "offsetY": 59.00,
+              "width": 15.00,
+              "height": 18.00,
+              "path": "/birthday/4/3_element_7.png",
+              "angle": -10
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Happy birthday",
+              "offsetX": 38.00,
+              "offsetY": 8.00,
+              "fontPath": "/birthday/4/Maybe Cats - Personal Use.otf",
+              "textColor": "#ffffff",
+              "scale": 2.8,
+              "textSize": 14.0,
+              "isLock": false,
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/birthday/5/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/5/1_bg.png"
+          },
+          "fg": {
+            "path": "/birthday/5/3_element_3.png"
+          },
+          "imageItems": [
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/5/2_photo_2.png"
+                },
+                "fg": {
+                  "path": "/birthday/5/2_photo_1.png"
+                },
+              "shape": "",
+              "width": 80.00,
+              "height": 41.00,
+              "offsetX": 9.50,
+              "offsetY": 22.00
+            }
+          ],
+          "textItems": [
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 3.00,
+              "offsetY": 2.00,
+              "path": "/birthday/5/4_text.png",
+              "width": 25.00,
+              "height": 18.00,
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": 4.50,
+              "offsetY": 52.00,
+              "path": "/birthday/5/3_element_2.png",
+              "width": 25.00,
+              "height": 15.00,
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":67.00,
+              "offsetY": 17.00,
+              "width": 25.00,
+              "height": 15.00,
+              "path": "/birthday/5/3_element_1.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "postImage": "/birthday/6/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/6/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/6/2_photo_2.png"
+                },
+                "fg": {
+                  "path": "/birthday/6/2_photo_1.png"
+                },
+              "shape": "",
+              "width": 83.00,
+              "height": 45.00,
+              "offsetX": 7.50,
+              "offsetY": 6.00
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 27.00,
+              "offsetY": 53.00,
+              "width": 13.00,
+              "height": 13.00,
+              "path": "/birthday/6/4_text.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 30.00,
+              "offsetY": 64.00,
+              "width": 35.00,
+              "height": 35.00,
+              "path": "/birthday/6/3_element_1.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":2.00,
+              "offsetY": 1.50,
+              "width": 5.00,
+              "height": 6.00,
+              "path": "/birthday/6/3_element_2.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":1.50,
+              "offsetY": 40.00,
+              "width": 8.00,
+              "height": 8.00,
+              "path": "/birthday/6/3_element_4.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":85.00,
+              "offsetY": 1.00,
+              "width": 5.00,
+              "height": 6.00,
+              "path": "/birthday/6/3_element_5.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":85.00,
+              "offsetY": 52.00,
+              "width": 10.00,
+              "height": 6.00,
+              "path": "/birthday/6/3_element_3.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":78.00,
+              "offsetY": 74.00,
+              "width": 7.00,
+              "height": 12.00,
+              "path": "/birthday/6/3_element_6.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":15.00,
+              "offsetY": 73.00,
+              "width": 4.00,
+              "height": 4.00,
+              "path": "/birthday/6/3_element_7.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":68.00,
+              "offsetY": 3.00,
+              "width": 1.50,
+              "height": 1.50,
+              "path": "/birthday/6/3_element_8.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":1.00,
+              "offsetY": 72.00,
+              "path": "/birthday/6/3_element_8.png",
+              "width": 1.50,
+              "height": 1.50,
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":10.00,
+              "offsetY": 52.50,
+              "width": 1.30,
+              "height": 1.30,
+              "path": "/birthday/6/3_element_8.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/birthday/7/mokup_1.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/7/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/7/2_photo_2.png"
+                },
+                "fg": {
+                  "path": "/birthday/7/2_element_1.png"
+                },
+              "shape": "",
+              "width": 85.00,
+              "height": 44.00,
+              "offsetX": 7.50,
+              "offsetY": 18.00
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Birthday",
+              "offsetX": 14.00,
+              "offsetY": 1.00,
+              "width": 35.00,
+              "height": 10.00,
+              "fontPath": "/birthday/7/BUTTERSHINE SCRIPT.ttf",
+              "textColor": "#e05494",
+              "scale": 2.0,
+              "letterSpacing":0.05,
+              "textSize":34.0,
+              "isLock": false
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 17.30,
+              "offsetY": 64.00,
+              "path": "/birthday/7/3_photo_3.png",
+              "width": 16.00,
+              "height": 16.00,
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":3.00,
+              "offsetY": 2.00,
+              "width": 9.00,
+              "height": 13.00,
+              "path": "/birthday/7/3_photo_1.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":85.00,
+              "offsetY": 4.50,
+              "path": "/birthday/7/3_photo_2.png",
+              "width": 7.00,
+              "height": 11.00,
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":62.00,
+              "offsetY": 82.00,
+              "width": 10.00,
+              "height": 6.00,
+              "path": "/birthday/7/3_photo_4.png",
+              "angle": 5
+            },{
+              "isLock": false,
+              "offsetX":90.00,
+              "offsetY": 73.00,
+              "width": 2.00,
+              "height": 3.00,
+              "path": "/birthday/7/3_photo_5.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/birthday/8/mockup.png",
+          "bg": {
+            "color": "#232322",
+            "path": ""
+          },
+          "fg": {
+            "path": "/birthday/8/3_element.png"
+          },
+          "imageItems": [
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/8/2_photo_2.png"
+                },
+                "fg": {
+                  "path": "/birthday/8/2_photo_1.png"
+                },
+              "shape": "",
+              "width": 85.00,
+              "height": 80.00,
+              "offsetX": 8.00,
+              "offsetY": 11.00
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Birthday",
+              "offsetX": 9.00,
+              "offsetY": -1.00,
+              "fontPath": "/birthday/8/ITCEDSCR.TTF",
+              "textColor": "#c4ac6d",
+              "scale": 2.0,
+              "textSize": 26.0,
+              "isLock": false
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/birthday/9/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/9/1_bg.png"
+          },
+          "fg": {
+            "backLayer":true,
+            "path": "/birthday/9/2_shadow.png"
+          },
+          "imageItems": [
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/9/3_photo_4.png"
+                },
+                "fg": {
+                  "path": "/birthday/9/3_photo_3.png"
+                },
+              "shape": "",
+              "width": 50.00,
+              "height": 25.00,
+              "offsetX": 8.00,
+              "offsetY": 10.00,
+              "angle": -8,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.60,
+                "end": 1.50,
+                "start": 2.10
+              }
+            },
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/9/3_photo_4.png"
+                },
+                "fg": {
+                  "path": "/birthday/9/3_photo_3.png"
+                },
+              "shape": "",
+              "width": 50.00,
+              "height": 25.00,
+              "offsetX": 43.00,
+              "offsetY": 42.00,
+              "angle": 10,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.60,
+                "end": 1.50,
+                "start": 2.10
+              }
+            },
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/9/3_photo_4.png"
+                },
+                "fg": {
+                  "path": "/birthday/9/3_photo_3.png"
+                },
+              "shape": "",
+              "width": 50.00,
+              "height": 25.00,
+              "offsetX": 8.00,
+              "offsetY": 70.00,
+              "angle": -2,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.60,
+                "end": 1.50,
+                "start": 2.10
+              }
+            }
+          ],
+          "stickerItems":[
+            {
+              "isLock": false,
+              "offsetX": -1.00,
+              "offsetY": 44.00,
+              "width": 20.00,
+              "height": 11.00,
+              "path":"/birthday/9/4_element_7.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":5.00,
+              "offsetY": 0.00,
+              "width": 1.00,
+              "height": 5.00,
+              "path": "/birthday/9/4_element_12.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":90.00,
+              "offsetY": 0.00,
+              "width": 2.00,
+              "height": 8.00,
+              "path": "/birthday/9/4_element_6.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":44.00,
+              "offsetY": 3.50,
+              "width": 18.00,
+              "height": 20.00,
+              "path": "/birthday/9/4_element_9.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":82.00,
+              "offsetY": 35.00,
+              "width": 6.00,
+              "height": 18.00,
+              "path": "/birthday/9/4_element_8.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":53.50,
+              "offsetY": 77.50,
+              "width": 19.70,
+              "height": 19.70,
+              "path": "/birthday/9/4_element_5.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":10.50,
+              "offsetY": 32.50,
+              "width": 2.00,
+              "height": 8.00,
+              "path": "/birthday/9/4_element_11.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":10.50,
+              "offsetY": 58.00,
+              "width": 12.00,
+              "height": 10.00,
+              "path": "/birthday/9/4_element_10.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":3.50,
+              "offsetY": 69.00,
+              "width": 10.00,
+              "height": 7.00,
+              "path": "/birthday/9/4_element_4.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":40.00,
+              "offsetY": 46.00,
+              "width": 7.00,
+              "height": 7.00,
+              "path": "/birthday/9/4_element_3.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":42.00,
+              "offsetY": 39.50,
+              "width": 7.00,
+              "height": 5.50,
+              "path": "/birthday/9/4_element_2.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":18.50,
+              "offsetY": 7.00,
+              "width": 10.00,
+              "height": 6.00,
+              "path": "/birthday/9/4_element_1.png",
+              "angle": 0
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Best\n Birthday",
+              "offsetX": 5.50,
+              "offsetY": 44.00,
+              "width": 20.00,
+              "height": 5.00,
+              "textColor": "#191A1A",
+              "scale": 2.0,
+              "lineSpacing":0.65,
+              "alignment": "normal",
+              "textSize": 16.0,
+              "fontPath": "/birthday/9/Bride.ttf",
+              "isLock": false
+            }
+
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/birthday/10/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/birthday/10/1_bg.png"
+          },
+          "fg": {
+            "backLayer":true,
+            "path": "/birthday/10/2_shadow.png"
+          },
+          "imageItems": [
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/10/3_shape_2.png"
+                },
+                "fg": {
+                  "path": "/birthday/10/3_shape_1.png"
+                },
+              "shape": "",
+              "width": 80.00,
+              "height": 45.00,
+              "offsetX": 10.00,
+              "offsetY": 25.00,
+              "angle": 0,
+              "margin": {
+                "top": 1.00,
+                "bottom": 2.30,
+                "end": 3.80,
+                "start": 2.00
+              }
+            },
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/birthday/10/3_shape_4.png"
+                },
+                "fg": {
+                  "path": "/birthday/10/3_shape_1.png"
+                },
+              "shape": "",
+              "width": 50.00,
+              "height": 25.00,
+              "offsetX": 43.00,
+              "offsetY": 63.00,
+              "angle": 10,
+              "margin": {
+                "top": 1.00,
+                "bottom": 2.30,
+                "end": 2.30,
+                "start": 1.60
+              }
+            }
+          ],
+          "stickerItems":[
+           {
+              "isLock": false,
+              "offsetX":80.00,
+              "offsetY": 1.50,
+             "width": 12.00,
+             "height": 15.00,
+              "path": "/birthday/10/4_element_10.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX": 3.00,
+              "offsetY": 3.00,
+              "width": 25.00,
+              "height": 14.40,
+              "path": "/birthday/10/4_element_4.png",
+              "angle": -3
+            } ,{
+              "isLock": false,
+              "offsetX":78.00,
+              "offsetY": 23.50,
+              "width": 9.00,
+              "height": 9.00,
+              "path": "/birthday/10/4_element_2.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":4.00,
+              "offsetY": 22.00,
+              "width": 9.00,
+              "height": 9.00,
+              "path": "/birthday/10/4_element_1.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":52.00,
+              "offsetY": 83.00,
+              "width": 6.00,
+              "height": 6.00,
+              "path": "/birthday/10/4_element_3.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":62.00,
+              "offsetY": 19.50,
+              "width": 6.00,
+              "height": 6.00,
+              "path": "/birthday/10/4_element_5.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":5.00,
+              "offsetY": 18.30,
+              "width": 4.00,
+              "height": 4.00,
+              "path": "/birthday/10/4_element_7.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":3.00,
+              "offsetY": 85.00,
+              "width": 4.00,
+              "height": 4.00,
+              "path": "/birthday/10/4_element_6.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":20.00,
+              "offsetY": 82.00,
+              "width": 15.00,
+              "height": 15.00,
+              "path": "/birthday/10/4_element_8.png",
+              "angle": 0
+            },{
+              "isLock": false,
+              "offsetX":3.00,
+              "offsetY": 62.00,
+              "width": 14.00,
+              "height": 14.00,
+              "path": "/birthday/10/4_element_11.png",
+              "angle": 0
+            },
+            {
+              "isLock": false,
+              "offsetX": 81.50,
+              "offsetY": 84.00,
+              "width": 11.00,
+              "height": 11.00,
+              "path": "/birthday/10/4_element_9.png",
+              "angle": 0
+            }
+          ],
+          "textItems": [
+            {
+              "text": "BesT\n   Birthday",
+              "offsetX": 5.30,
+              "offsetY": 5.00,
+              "width": 30.00,
+              "height": 7.00,
+              "alignment":"normal",
+              "lineSpacing": 0.7,
+              "textColor": "#08748c",
+              "scale": 2.0,
+              "fontPath":"/birthday/10/Dakiens.ttf",
+              "textSize": 24.0,
+              "isLock": false,
+              "angle": -18
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Kids",
+      "categoryId": "kids_id",
+      "categoryImage": "/kids/icon tmp_kid_line.png",
+      "isPremium": 0,
+      "items": [
+        {
+          "index": 1,
+          "postImage": "/kids/1/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/kids/1/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#ffffff",
+                "path": ""
+              },
+              "fg": {
+                "path": "/kids/1/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 65.00,
+              "height": 30.00,
+              "offsetX": 11.00,
+              "offsetY": 10.00,
+              "angle": -9
+            },
+            {
+              "bg": {
+                "color": "#ffffff",
+                "path": ""
+              },
+              "fg": {
+                "path": "/kids/1/2_photo_3.png"
+              },
+              "shape": "",
+              "width": 40.00,
+              "height": 30.00,
+              "offsetX": 48.00,
+              "offsetY": 30.00,
+              "angle": 10
+            },
+            {
+              "bg": {
+                "color": "#ffffff",
+                "path": ""
+              },
+              "fg": {
+                "path": "/kids/1/2_photo_5.png"
+              },
+              "shape": "",
+              "width": 73.00,
+              "height": 26.00,
+              "offsetX": 11.00,
+              "offsetY": 66.00,
+              "angle": -9
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 28.00,
+              "offsetY": 6.50,
+              "width": 10.00,
+              "height": 7.00,
+              "path": "/kids/1/3_elements_1.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 47.00,
+              "offsetY": 26.50,
+              "width": 10.00,
+              "height": 7.00,
+              "path": "/kids/1/3_elements_2.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 15.00,
+              "offsetY": 38.00,
+              "width": 8.00,
+              "height": 8.00,
+              "path": "/kids/1/3_elements_3.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 74.50,
+              "offsetY": 85.00,
+              "width": 9.00,
+              "height": 9.00,
+              "path": "/kids/1/3_elements_4.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 1.50,
+              "offsetY": 2.00,
+              "width": 9.00,
+              "height": 6.00,
+              "path": "/kids/1/3_elements_5.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 80.50,
+              "offsetY": 18.00,
+              "width": 9.00,
+              "height": 6.00,
+              "path": "/kids/1/3_elements_6.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 2.50,
+              "offsetY": 53.00,
+              "width": 9.00,
+              "height": 9.00,
+              "path": "/kids/1/3_elements_7.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 80.50,
+              "offsetY": 68.00,
+              "width": 11.00,
+              "height": 11.00,
+              "path": "/kids/1/3_elements_8.png",
+              "angle": 0
+
+            },{
+              "isLock": false,
+              "offsetX": 3.50,
+              "offsetY": 90.00,
+              "width": 9.00,
+              "height": 9.00,
+              "path": "/kids/1/3_elements_9.png",
+              "angle": 0
+
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/kids/2/mockup.png",
+          "bg": {
+            "color": "#4e8dc9",
+            "path": ""
+          },
+          "fg": {
+            "backLayer":true,
+            "path": "/kids/2/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/2/3_photo_2.png"
+              },
+              "fg": {
+                "path": "/kids/2/3_photo_1.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 60.00,
+              "offsetX": 8.00,
+              "offsetY": 20.00,
+              "angle": 0
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 44.00,
+              "offsetY": 71.00,
+              "width": 13.50,
+              "height": 13.50,
+              "path": "/kids/2/4_element_1.png"
+            },{
+              "isLock": false,
+              "offsetX": 47.00,
+              "offsetY": 15.00,
+              "width": 10.50,
+              "height": 10.50,
+              "path": "/kids/2/4_element_2.png"
+            },{
+              "isLock": false,
+              "offsetX": 80.00,
+              "offsetY": 19.00,
+              "width": 8.00,
+              "height": 8.00,
+              "path": "/kids/2/4_element_3.png"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/kids/3/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/kids/3/1_bg.png"
+          },
+          "fg": {
+            "path": "/kids/3/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/3/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/kids/3/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 83.00,
+              "height": 63.00,
+              "offsetX": 9.00,
+              "offsetY": 24.00
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+          {
+              "isLock": false,
+              "offsetX": 84.00,
+              "offsetY": 35.00,
+              "width": 5.00,
+              "height": 5.00,
+              "path": "/kids/3/3_element_6.png"
+            },{
+              "isLock": false,
+              "offsetX": 5.00,
+              "offsetY": 59.00,
+              "width": 3.00,
+              "height": 3.00,
+              "path": "/kids/3/3_element_7.png"
+            },{
+              "isLock": false,
+              "offsetX": 18.00,
+              "offsetY": 82.70,
+              "width": 4.00,
+              "height":4.00,
+              "path": "/kids/3/3_element_8.png"
+            },{
+              "isLock": false,
+              "offsetX": 73.00,
+              "offsetY": 82.80,
+              "width": 4.30,
+              "height":4.30,
+              "path": "/kids/3/3_element_9.png"
+            },{
+              "isLock": false,
+              "offsetX": 19.00,
+              "offsetY": 22.00,
+              "width": 4.50,
+              "height":4.50,
+              "path": "/kids/3/3_element_5.png"
+            },{
+              "isLock": false,
+              "offsetX": 90.00,
+              "offsetY": 93.00,
+              "width": 2.50,
+              "height":2.50,
+              "path": "/kids/3/3_element_5.png",
+              "angle": 88
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/kids/4/mockup.png",
+          "bg": {
+            "color": "#ece6e7",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/4/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/kids/4/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 45.00,
+              "offsetX": 7.50,
+              "offsetY": 30.00
+            }
+          ],
+          "textItems": [
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 9.00,
+              "offsetY": 0.00,
+              "width": 30.00,
+              "height": 23.00,
+              "path": "/kids/4/3_element_1.png"
+            } ,{
+              "isLock": false,
+              "offsetX": 36.00,
+              "offsetY": 0.00,
+              "width": 12.50,
+              "height": 10.00,
+              "path": "/kids/4/3_element_2.png"
+            } ,{
+              "isLock": false,
+              "offsetX": 78.50,
+              "offsetY": 0.00,
+              "width": 11.00,
+              "height": 10.00,
+              "path": "/kids/4/3_element_3.png"
+            },{
+              "isLock": false,
+              "offsetX": -6.00,
+              "offsetY": 0.00,
+              "width": 11.00,
+              "height": 40.00,
+              "path": "/kids/4/3_element_4.png"
+            },{
+              "isLock": false,
+              "offsetX": -17.00,
+              "offsetY": 10.00,
+              "width": 15.00,
+              "height": 50.00,
+              "path": "/kids/4/3_element_5.png"
+            },{
+              "isLock": false,
+              "offsetX": 30.00,
+              "offsetY": 76.00,
+              "width": 30.00,
+              "height": 42.50,
+              "path": "/kids/4/3_element_6.png"
+            },{
+              "isLock": false,
+              "offsetX": -10.00,
+              "offsetY": 73.00,
+              "width": 30.00,
+              "height": 41.00,
+              "path": "/kids/4/3_element_7.png"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/kids/5/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/kids/5/1_bg.png"
+          },
+          "fg": {
+            "path": "/kids/5/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/5/1_photo_2.png"
+              },
+              "fg": {
+                "path": "/kids/5/1_photo_1.png"
+              },
+              "shape": "",
+              "width": 70.00,
+              "height": 78.00,
+              "offsetX": 15.00,
+              "offsetY": 10.00
+            }
+          ],
+          "textItems": [
+          ],
+          "stickerItems": [
+          ]
+        },
+        {
+          "index": 6,
+          "postImage": "/kids/6/mockup.png",
+          "bg": {
+            "color": "#c3fbff",
+            "path": ""
+          },
+          "fg": {
+            "backLayer":true,
+            "path": "/kids/6/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/6/3_photo_4.png"
+              },
+              "fg": {
+                "path": "/kids/6/3_photo_3.png"
+              },
+              "shape": "",
+              "width": 50.00,
+              "height": 42.00,
+              "offsetX": 7.00,
+              "offsetY": 5.00
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": ""
+              },
+              "fg": {
+                "path": "/kids/6/3_photo_1.png"
+              },
+              "shape": "",
+              "width": 38.00,
+              "height": 22.00,
+              "offsetX": 50.00,
+              "offsetY": 18.00,
+              "angle": -30,
+              "margin": {
+                "top": 0.20,
+                "bottom": 0.20,
+                "end": 0.20,
+                "start": 0.20
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/6/3_photo_8.png"
+              },
+              "fg": {
+                "path": "/kids/6/3_photo_7.png"
+              },
+              "shape": "",
+              "width": 49.00,
+              "height": 38.00,
+              "offsetX": 42.00,
+              "offsetY": 59.00,
+              "angle": 0,
+              "margin": {
+                "top": 0.20,
+                "bottom": 0.20,
+                "end": 0.20,
+                "start": 0.20
+              }
+            },{
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/6/3_photo_6.png"
+              },
+              "fg": {
+                "path": "/kids/6/3_photo_5.png"
+              },
+              "shape": "",
+              "width": 50.00,
+              "height": 32.00,
+              "offsetX": 8.00,
+              "offsetY": 55.00,
+              "angle": 0,
+              "margin": {
+                  "top": 0.10,
+                  "bottom": 2.00,
+                  "start": 0.10,
+                  "end": 0.10
+              }
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "width": 9.00,
+              "height": 9.00,
+              "offsetX": 0.00,
+              "offsetY": 51.00,
+              "path": "/kids/6/4_element_1.png"
+            } ,{
+              "isLock": false,
+              "width": 13.00,
+              "height": 13.00,
+              "offsetX": 0.00,
+              "offsetY": 2.00,
+              "path": "/kids/6/4_element_1.png"
+            },{
+              "isLock": false,
+              "width": 11.00,
+              "height": 11.00,
+              "offsetX": 40.00,
+              "offsetY": 1.00,
+              "path": "/kids/6/4_element_3.png"
+            },{
+              "isLock": false,
+              "width": 12.00,
+              "height": 12.00,
+              "offsetX": 81.00,
+              "offsetY": 28.50,
+              "path": "/kids/6/4_element_4.png",
+               "angle": -8
+            },{
+              "isLock": false,
+              "width": 8.00,
+              "height": 8.00,
+              "offsetX": 54.00,
+              "offsetY": 49.00,
+              "path": "/kids/6/4_element_5.png",
+               "angle": 0
+            },{
+              "isLock": false,
+              "width": 8.00,
+              "height": 8.00,
+              "offsetX": 83.00,
+              "offsetY": 54.00,
+              "path": "/kids/6/4_element_6.png",
+               "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/kids/7/mockup.png",
+          "bg": {
+            "color": "#fee3e6",
+            "path": ""
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/kids/7/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/7/3_photo_2.png"
+              },
+              "fg": {
+                "path": "/kids/7/3_photo_1.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 72.00,
+              "offsetX": 10.00,
+              "offsetY": 15.00
+            }
+          ],
+          "textItems": [
+          ],
+          "stickerItems": [
+
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/kids/8/mockup.png",
+          "bg": {
+            "color": "#515761",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_1.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_2.png"
+              },
+              "shape": "",
+              "width": 38.00,
+              "height": 31.00,
+              "offsetX": 6.00,
+              "offsetY": 2.00,
+              "margin": {
+                "top": 5.30,
+                "bottom": 1.50,
+                "end": 1.50,
+                "start": 1.50
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_3.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_4.png"
+              },
+              "shape": "",
+              "width": 45.00,
+              "height": 34.00,
+              "offsetX": 54.00,
+              "offsetY": 2.00,
+              "margin": {
+                "top": 2.30,
+                "bottom": 2.60,
+                "end": 2.50,
+                "start": 2.30
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_5.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_6.png"
+              },
+              "shape": "",
+              "width": 36.00,
+              "height": 35.00,
+              "offsetX": 3.00,
+              "offsetY": 40.00,
+              "margin": {
+                "top": 2.30,
+                "bottom": 2.60,
+                "end": 2.50,
+                "start": 2.30
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_7.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_8.png"
+              },
+              "shape": "",
+              "width": 33.00,
+              "height": 20.00,
+              "offsetX": 40.00,
+              "offsetY": 37.00,
+              "margin": {
+                "top": 2.30,
+                "bottom": 2.60,
+                "end": 2.50,
+                "start": 2.30
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_9.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_10.png"
+              },
+              "shape": "",
+              "width": 25.00,
+              "height": 23.00,
+              "offsetX": 74.00,
+              "offsetY": 41.00,
+              "margin": {
+                "top": 3.30,
+                "bottom": 2.60,
+                "end": 2.50,
+                "start": 2.30
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_11.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_12.png"
+              },
+              "shape": "",
+              "width": 53.00,
+              "height": 19.00,
+              "offsetX": 2.00,
+              "offsetY": 77.00,
+              "margin": {
+                "top": 2.30,
+                "bottom": 2.60,
+                "end": 2.50,
+                "start": 2.30
+              }
+            },{
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/8/2_photo_13.png"
+              },
+              "fg": {
+                "path": "/kids/8/2_photo_14.png"
+              },
+              "shape": "",
+              "width": 35.00,
+              "height": 32.00,
+              "offsetX": 60.00,
+              "offsetY": 67.00,
+              "margin": {
+                "top": 3.00,
+                "bottom": 2.60,
+                "end": 2.50,
+                "start": 2.30
+              }
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 44.00,
+              "offsetY": 3.50,
+              "width": 6.00,
+              "height": 6.00,
+              "path": "/kids/8/3_element_1.png"
+            } , {
+              "isLock": false,
+              "offsetX": 3.00,
+              "offsetY": 33.70,
+              "width": 5.00,
+              "height": 5.00,
+              "path": "/kids/8/3_element_2.png"
+            }, {
+              "isLock": false,
+              "offsetX": 80.00,
+              "offsetY": 35.20,
+              "width": 5.00,
+              "height": 5.00,
+              "path": "/kids/8/3_element_3.png"
+            }, {
+              "isLock": false,
+              "offsetX": 48.00,
+              "offsetY": 58.20,
+              "width": 8.00,
+              "height": 8.00,
+              "path": "/kids/8/3_element_4.png"
+            }, {
+              "isLock": false,
+              "offsetX": 43.00,
+              "offsetY": 71.20,
+              "width": 4.00,
+              "height": 4.00,
+              "path": "/kids/8/3_element_6.png"
+            }, {
+              "isLock": false,
+              "offsetX": 3.00,
+              "offsetY": 96.00,
+              "width": 3.50,
+              "height": 3.50,
+              "path": "/kids/8/3_element_7.png"
+            }, {
+              "isLock": false,
+              "offsetX": 48.00,
+              "offsetY": 96.00,
+              "width": 3.50,
+              "height": 3.50,
+              "path": "/kids/8/3_element_8.png"
+            }, {
+              "isLock": false,
+              "offsetX": 83.00,
+              "offsetY": 64.20,
+              "width": 4.00,
+              "height": 4.00,
+              "path": "/kids/8/3_element_5.png"
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/kids/9/mockup.png",
+          "bg": {
+            "color": "#006191",
+            "path": ""
+          },
+          "fg": {
+            "path": "/kids/9/3_element_8.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/9/2_photo_2.png"
+              },
+              "fg": {
+                "path": ""
+              },
+              "width": 73.00,
+              "height": 78.00,
+              "offsetX": 14.00,
+              "offsetY": 12.00
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 3.00,
+              "offsetY": 0.00,
+              "width": 30.00,
+              "height": 30.00,
+              "path": "/kids/9/3_element_1.png"
+            },{
+              "isLock": false,
+              "offsetX": 4.00,
+              "offsetY": 48.00,
+              "width": 8.00,
+              "height": 8.00,
+              "path": "/kids/9/3_element_6.png"
+            },{
+              "isLock": false,
+              "offsetX": 3.00,
+              "offsetY": 70.00,
+              "width": 25.00,
+              "height": 25.00,
+              "path": "/kids/9/3_element_3.png"
+            },{
+              "isLock": false,
+              "offsetX": 64.00,
+              "offsetY": 4.00,
+              "width": 20.00,
+              "height": 20.00,
+              "path": "/kids/9/3_element_2.png"
+            },{
+              "isLock": false,
+              "offsetX": 63.00,
+              "offsetY": 76.00,
+              "width": 23.00,
+              "height": 23.00,
+              "path": "/kids/9/3_element_4.png"
+            },{
+              "isLock": false,
+              "offsetX": 47.00,
+              "offsetY": 7.50,
+              "width": 8.50,
+              "height": 8.50,
+              "path": "/kids/9/3_element_5.png"
+            },{
+              "isLock": false,
+              "offsetX": 78.00,
+              "offsetY": 51.00,
+              "width": 10.50,
+              "height": 10.50,
+              "path": "/kids/9/3_element_7.png"
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/kids/10/mockup.png",
+          "bg": {
+            "color": "#4062ab",
+            "path": ""
+          },
+          "fg": {
+            "path": "/kids/10/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/kids/10/2_photo_2.png"
+              },
+              "fg": {
+                "path": ""
+              },
+              "width": 81.00,
+              "height": 81.00,
+              "offsetX": 9.00,
+              "offsetY": 9.00
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Love",
+      "categoryId": "love_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "isPremium": 0,
+      "items": [
+        {
+          "index": 1,
+          "postImage": "/love/1/mockup.png",
+          "bg": {
+            "color": "#7a2c32",
+            "path": ""
+          },
+          "fg": {
+            "path": "/love/1/5_shadow.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/1/3_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/1/3_photo_1.png"
+              },
+              "shape": "",
+              "width": 45.00,
+              "height": 30.00,
+              "offsetX": 15.00,
+              "offsetY": 28.00,
+              "margin": {
+                "top": 0.20,
+                "bottom": 2.50,
+                "end": 2.20,
+                "start": 0.20
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/1/3_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/1/3_photo_1.png"
+              },
+              "shape": "",
+              "width": 50.00,
+              "height": 35.00,
+              "offsetX": 32.00,
+              "offsetY": 54.00,
+              "angle":2,
+              "margin": {
+                "top": 0.20,
+                "bottom": 2.50,
+                "end": 2.20,
+                "start": 1.20
+              }
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "width": 8.00,
+              "height": 8.00,
+              "offsetX": 38.00,
+              "offsetY": 12.00,
+              "path": "/love/1/2_text.png"
+            } ,{
+              "isLock": false,
+              "width": 3.00,
+              "height": 3.00,
+              "offsetX": 28.00,
+              "offsetY": 26.00,
+              "path": "/love/1/3_photo_6.png"
+            },{
+              "isLock": false,
+              "width": 20.00,
+              "height": 20.00,
+              "offsetX": 65.00,
+              "offsetY": 30.00,
+              "path": "/love/1/3_photo_7.png"
+            },{
+              "isLock": false,
+              "width": 3.00,
+              "height": 3.00,
+              "offsetX": 76.00,
+              "offsetY": 28.50,
+              "path": "/love/1/3_photo_8.png"
+            },{
+              "isLock": false,
+              "width": 20.00,
+              "height": 20.00,
+              "offsetX": 4.00,
+              "offsetY": 70.50,
+              "path": "/love/1/4_elements_1.png"
+            },{
+              "isLock": false,
+              "width": 3.50,
+              "height": 3.50,
+              "offsetX": 8.00,
+              "offsetY": 86.50,
+              "path": "/love/1/4_elements_3.png"
+            },{
+              "isLock": false,
+              "width": 3.50,
+              "height": 3.50,
+              "offsetX": 52.00,
+              "offsetY": 52.00,
+              "path": "/love/1/4_elements_3.png"
+            },{
+              "isLock": false,
+              "width": 18.50,
+              "height": 18.50,
+              "offsetX": 46.00,
+              "offsetY": 77.00,
+              "path": "/love/1/4_elements_2.png"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/love/2/mockup.png",
+          "bg": {
+            "color": "#7b3550",
+            "path": ""
+          },
+          "fg": {
+            "path": "/love/2/4_shadow.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/2/3_photo_10.png"
+              },
+              "fg": {
+                "path": "/love/2/3_photo_9.png"
+              },
+              "shape": "",
+              "width": 40.00,
+              "height": 34.00,
+              "offsetX": 55.00,
+              "offsetY": 55.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.00,
+                "start": 1.00,
+                "end": 1.00,
+                "tlr": 80.00,
+                "trr": 80.00,
+                "brr": 0.00,
+                "blr": 0.00
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/2/3_photo_8.png"
+              },
+              "fg": {
+                "path": "/love/2/3_photo_7.png"
+              },
+              "shape": "",
+              "width": 44.00,
+              "height": 20.00,
+              "offsetX": 7.00,
+              "offsetY": 68.60,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.00,
+                "start": 1.00,
+                "end": 1.00
+              }
+            },
+            {
+                "bg": {
+                  "color": "#808080",
+                  "path": "/love/2/3_photo_5.png"
+                },
+                "fg": {
+                  "path": "/love/2/3_photo_4.png"
+                },
+                "shape": "",
+                "width": 65.00,
+                "height": 40.00,
+                "offsetX": 15.00,
+                "offsetY": 10.00,
+                "margin": {
+                  "top": 2.00,
+                  "bottom": 2.50,
+                  "end": 2.20,
+                  "start": 2.00
+                }
+              }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+              {
+                "isLock": false,
+                "offsetX": 6.00,
+                "offsetY": 32.00,
+                "width": 33.50,
+                "height": 33.50,
+                "path": "/love/2/3_photo_1.png"
+              } ,{
+                "isLock": false,
+                "offsetX": 11.00,
+                "offsetY": 52.00,
+                "width": 20.50,
+                "height": 6.50,
+                "path": "/love/2/2_text.png"
+              },{
+                "isLock": false,
+                "offsetX": 45.00,
+                "offsetY": 10.00,
+                "width": 4.00,
+                "height": 4.00,
+                "path": "/love/2/3_photo_6.png"
+              }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/love/3/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/3/1_bg.png"
+          },
+          "fg": {
+            "path": "/love/3/4_shadow.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/3/3_photo_7.png"
+              },
+              "fg": {
+                "path": "/love/3/3_photo_6.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 72.00,
+              "offsetX": 22.00,
+              "offsetY": 49.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 1.00,
+                "start": 3.00,
+                "end": 13.60
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/3/3_photo_3.png"
+              },
+              "fg": {
+                "path": "/love/3/3_photo_2.png"
+              },
+              "shape": "",
+              "width": 38.00,
+              "height": 38.00,
+              "offsetX": 54.00,
+              "offsetY": 11.40,
+              "margin": {
+                "top": 1.50,
+                "bottom": 3.00,
+                "start": 1.50,
+                "end": 1.50
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/3/3_photo_5.png"
+              },
+              "fg": {
+                "path": "/love/3/3_photo_4.png"
+              },
+              "shape": "",
+              "width": 68.00,
+              "height": 45.00,
+              "offsetX": -16.00,
+              "offsetY": 27.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 3.00,
+                "start": 1.50,
+                "end": 1.50
+              }
+            }
+          ],
+          "textItems": [
+            {
+              "text": "LOVE MODE",
+              "offsetX": 5.00,
+              "offsetY": 16.00,
+              "width": 38.50,
+              "height":6.00,
+              "textColor": "#ffffff",
+              "fontPath": "/love/3/Dahlia Regictik.ttf",
+              "letterSpacing": 0.6,
+              "scale": 1.0,
+              "textSize": 12.0,
+              "isLock": false,
+              "angle": 0
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 46.00,
+              "offsetY": 4.00,
+              "width": 20.00,
+              "height": 13.00,
+              "path": "/love/3/3_photo_1.png"
+            },{
+              "isLock": false,
+              "offsetX": 74.00,
+              "offsetY": 7.00,
+              "width": 10.00,
+              "height": 5.00,
+              "path": "/love/3/2_text_2.png"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/love/4/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/4/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/4/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 70.00,
+              "height": 48.00,
+              "offsetX": 16.00,
+              "offsetY": 25.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 3.00,
+                "start": 2.00,
+                "end": 3.00
+              }
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 38.00,
+              "offsetY": 23.00,
+              "width": 5.50,
+              "height": 5.50,
+              "path": "/love/4/2_photo_3.png"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/love/5/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/5/1_bg.png"
+          },
+          "fg": {
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/5/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/5/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 73.00,
+              "height": 62.00,
+              "offsetX": 16.00,
+              "offsetY": 20.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 2.40,
+                "end": 2.00,
+                "start": 2.00
+              }
+            }
+          ],
+          "textItems": [
+
+          ],
+          "stickerItems": [
+
+          ]
+        },
+        {
+          "index": 6,
+          "postImage": "/love/6/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/6/1_bg.png"
+          },
+          "fg": {
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/6/3_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/6/3_photo_1.png"
+              },
+              "shape": "",
+              "width": 76.00,
+              "height": 44.00,
+              "offsetX": 13.00,
+              "offsetY": 34.00
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Love",
+              "offsetX": 47.00,
+              "offsetY": 23.00,
+              "fontPath": "/love/6/ITCEDSCR.TTF",
+              "textColor": "#ffffff",
+              "scale": 2.0,
+              "textSize": 30.00,
+              "isLock": false
+            }
+          ],
+          "stickerItems": [
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/love/7/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/7/1_bg.png"
+          },
+          "fg": {
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/7/2_photo_4.png"
+              },
+              "fg": {
+                "path": "/love/7/2_photo_3.png"
+              },
+              "shape": "",
+              "width": 44.00,
+              "height": 48.00,
+              "offsetX": 2.00,
+              "offsetY": 28.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 2.40,
+                "end": 2.00,
+                "start": 2.00
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/7/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/7/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 52.00,
+              "height": 30.00,
+              "offsetX": 47.00,
+              "offsetY": 1.50,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.50,
+                "end": 3.00,
+                "start": 2.00
+              }
+            },
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/7/2_photo_2.png"
+              },
+              "fg": {
+                "path": "/love/7/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 55.00,
+              "height": 20.00,
+              "offsetX": 42.00,
+              "offsetY":76.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.50,
+                "end": 3.00,
+                "start": 2.00
+              }
+            }
+          ],
+          "textItems": [
+            {
+              "text": "Love",
+              "offsetX": 0.00,
+              "offsetY": 7.00,
+              "textColor": "#ffffff",
+              "scale": 2.0,
+              "textSize": 43.0,
+              "fontPath": "/love/7/ITCEDSCR.TTF",
+              "isLock": false
+            }
+          ],
+          "stickerItems": [
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/love/8/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/8/1_bg.png"
+          },
+          "fg": {
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/8/2_element_2.png"
+              },
+              "fg": {
+                "path": "/love/8/2_element_1.png"
+              },
+              "shape": "",
+              "width": 70.00,
+              "height": 58.00,
+              "offsetX": 15.00,
+              "offsetY": 21.00,
+              "margin": {
+                "top": 5.00,
+                "bottom": 5.00,
+                "end": 8.00,
+                "start": 8.00
+              }
+            }
+          ],
+          "textItems": [
+            {
+              "text": "LOVE",
+              "offsetX": 32.00,
+              "offsetY": 8.00,
+              "width": 35.00,
+              "height": 10.00,
+              "textColor": "#191A1A",
+              "fontPath": "/love/8/TCM.TTF",
+              "scale": 1.0,
+              "letterSpacing": 0.3,
+              "textSize": 22.0,
+              "isLock": false
+            },{
+              "text": "MEMORY",
+              "offsetX": 29.00,
+              "offsetY": 84.00,
+              "width": 39.00,
+              "height": 10.00,
+              "letterSpacing": 0.3,
+              "textColor": "#191A1A",
+              "fontPath": "/love/8/TCM.TTF",
+              "scale": 1.0,
+              "textSize": 22.0,
+              "isLock": false
+            }
+          ],
+          "stickerItems": [
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/love/9/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/9/1_bg.png"
+          },
+          "fg": {
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#808080",
+                "path": "/love/9/2_photo_2.png"
+
+              },
+              "fg": {
+                "path": "/love/9/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 66.00,
+              "height": 63.00,
+              "offsetX": 19.00,
+              "offsetY": 19.00
+            }
+          ],
+          "textItems": [
+            {
+              "text": "LOVE VIBES",
+              "offsetX": 17.00,
+              "offsetY": 4.20,
+              "width": 35.00,
+              "height": 5.00,
+              "textColor": "#191A1A",
+              "fontPath": "/love/9/SwashingtonCP.ttf",
+              "letterSpacing": 0.2,
+              "scale": 2.0,
+              "textSize": 12.50,
+              "isLock": false
+            }
+          ],
+          "stickerItems": [
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/love/10/mockup.png",
+          "bg": {
+            "color": "#FFA500",
+            "path": "/love/10/1_bg.png"
+          },
+          "fg": {
+            "path": "file:///android_asset/4.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#ffffff",
+                "path": ""
+              },
+              "fg": {
+                "path": "/love/10/2_photo_1.png"
+              },
+              "shape": "",
+              "width": 75.00,
+              "height": 68.00,
+              "offsetX": 13.00,
+              "offsetY": 18.00
+            }
+          ],
+            "textItems": [
+              {
+                "text": "LOVE VIBES",
+                "offsetX": 14.00,
+                "offsetY": 15.00,
+                "width": 35.00,
+                "height": 7.00,
+                "textColor": "#ffffff",
+                "scale": 2.1,
+                "textSize": 12.50,
+                "letterSpacing": 0.2,
+                "fontPath": "/love/10/SwashingtonCP.ttf",
+                "isLock": false
+              }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 25.20,
+              "offsetY": 82.00,
+              "width": 20.00,
+              "height": 8.50,
+              "path": "/love/10/2_photo_2.png"
+            },{
+              "isLock": false,
+              "offsetX": 33.00,
+              "offsetY": 84.50,
+              "width": 10.00,
+              "height": 4.00,
+              "path": "/love/10/3_element.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
