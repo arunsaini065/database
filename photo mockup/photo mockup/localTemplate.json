@@ -4,7 +4,7 @@
       "categoryName": "Birthday",
       "categoryId": "birthday_id",
       "categoryImage": "/birthday/icon tmp_bday_line_fill.png",
-      "postUrl": "/birthday/birthday.png",
+      "postUrl": "/birthday/birthday.jpg",
       "isPremium": 0,
       "items": [
         {
@@ -945,7 +945,7 @@
       "categoryName": "Kids",
       "categoryId": "kids_id",
       "categoryImage": "/kids/icon tmp_kid_line.png",
-      "postUrl": "/kids/kids.png",
+      "postUrl": "/kids/kids.jpg",
       "isPremium": 0,
       "items": [
         {
@@ -1844,7 +1844,7 @@
       "categoryName": "Love",
       "categoryId": "love_id",
       "categoryImage": "/love/icon tmp_Wedding_fll.png",
-      "postUrl": "/love/love.png",
+      "postUrl": "/love/love.jpg",
       "isPremium": 0,
       "items": [
         {
