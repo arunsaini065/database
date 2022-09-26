@@ -2602,11 +2602,11 @@
           "imageItems": [
             {
               "bg": {
-                "color": "#d8f6f7",
-                "path": ""
+                "color": "",
+                "path": "/pets/2/2_shape_1.png"
               },
               "fg": {
-                "path": ""
+                "path": "/pets/2/2_shape_2.png"
               },
               "shape": "",
               "width": 80.00,
@@ -2614,10 +2614,14 @@
               "offsetX": 11.00,
               "offsetY": 5.00,
               "margin": {
-                "tlr": 46.00,
-                "trr": 46.00,
-                "brr": 46.00,
-                "blr": 46.00
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 4.50,
+                "start": 4.50,
+                "tlr": 22.00,
+                "trr": 22.00,
+                "brr": 22.00,
+                "blr": 22.00
               }
             }
           ],
@@ -2650,6 +2654,51 @@
           "fg": {
             "path": ""
           },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/3/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/pets/3/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 42.00,
+              "height": 33.00,
+              "offsetX": 11.00,
+              "offsetY": 5.00,
+              "angle": -9,
+              "margin": {
+                "top": 10.00,
+                "bottom": 1.50,
+                "end": 2.50,
+                "start": 2.50
+              }
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/3/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/pets/3/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 56.00,
+              "height": 40.00,
+              "offsetX": 39.00,
+              "offsetY": 30.00,
+              "angle": 9,
+              "margin": {
+                "top": 13.00,
+                "bottom": 1.50,
+                "end": 2.50,
+                "start": 2.50
+              }
+            }
+          ],
+
           "stickerItems": [
             {
               "isLock": false,
