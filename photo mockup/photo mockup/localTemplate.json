@@ -2639,6 +2639,27 @@
             }
           ]
 
+        },
+        {
+          "index": 3,
+          "postImage": "/pets/3/mockup.png",
+          "bg": {
+            "color": "#7a2c32",
+            "path": "/pets/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "stickerItems": [
+            {
+              "isLock": false,
+              "width": 100.00,
+              "height": 20.00,
+              "offsetX": 0.0,
+              "offsetY": 73.00,
+              "path": "/pets/3/3_element.png"
+            }
+          ]
         }
       ]
     }
