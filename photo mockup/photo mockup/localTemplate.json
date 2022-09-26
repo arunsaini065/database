@@ -2496,7 +2496,7 @@
             "path": "/love/10/1_bg.png"
           },
           "fg": {
-            "path": "file:///android_asset/4.png"
+            "path": ""
           },
           "imageItems": [
             {
@@ -2544,6 +2544,48 @@
               "width": 10.00,
               "height": 4.00,
               "path": "/love/10/3_element.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Pets",
+      "categoryId": "pets_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/pets/pets.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/pets/1/mockup.png",
+          "bg": {
+            "color": "#7a2c32",
+            "path": "/pets/1/1_bg.png"
+          },
+          "fg": {
+            "path": "/pets/1/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/1/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/pets/1/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 75.00,
+              "height": 88.00,
+              "offsetX": 13.00,
+              "offsetY": 6.00,
+              "margin": {
+                "tlr": 80.00,
+                "trr": 80.00,
+                "brr": 80.00,
+                "blr": 80.00
+              }
             }
           ]
         }
