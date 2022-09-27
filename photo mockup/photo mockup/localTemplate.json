@@ -2907,6 +2907,143 @@
               "path": "/pets/6/3_element_1.png"
             }
           ]
+        },
+        {
+          "index": 7,
+          "postImage": "/pets/7/mockup.png",
+          "bg": {
+            "color": "#055782",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/7/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/pets/7/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 38.50,
+              "offsetX": 8.00,
+              "offsetY": 6.20
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/7/2_shape_4.png"
+              },
+              "fg": {
+                "path": "/pets/7/2_shape_3.png"
+              },
+              "shape": "",
+              "width": 45.00,
+              "height": 38.50,
+              "offsetX": 8.00,
+              "offsetY":58.20
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "width": 6.00,
+              "height": 6.00,
+              "offsetX": 11.50,
+              "offsetY": 53.00,
+              "path": "/pets/7/3_element_3.png"
+            },{
+              "isLock": false,
+              "width": 13.00,
+              "height": 13.00,
+              "offsetX": 75.00,
+              "offsetY": 31.30,
+              "path": "/pets/7/3_element_2.png"
+            },{
+              "isLock": false,
+              "width": 40.00,
+              "height": 40.00,
+              "offsetX": 49.00,
+              "offsetY": 48.50,
+              "path": "/pets/7/3_element_1.png"
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/pets/8/mockup.png",
+          "bg": {
+            "color": "#055782",
+            "path": "/pets/8/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/8/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/pets/8/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 53.00,
+              "height": 48.50,
+              "offsetX": 8.00,
+              "offsetY": 6.20
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/8/3_shape_3.png"
+              },
+              "fg": {
+                "path": "/pets/8/3_shape_4.png"
+              },
+              "shape": "",
+              "width": 53.00,
+              "height": 48.50,
+              "offsetX": 40.00,
+              "offsetY":45.20
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "width": 18.00,
+              "height": 18.00,
+              "offsetX": 60.50,
+              "offsetY": 12.00,
+              "path": "/pets/8/4_element_3.png"
+            },{
+              "isLock": false,
+              "width": 16.50,
+              "height": 16.50,
+              "offsetX": -3.00,
+              "offsetY": 71.30,
+              "path": "/pets/8/4_element_4.png"
+            },{
+              "isLock": false,
+              "width": 5.00,
+              "height": 5.00,
+              "offsetX": 17.00,
+              "offsetY": 52.20,
+              "path": "/pets/8/4_element_1.png"
+            },{
+              "isLock": false,
+              "width": 9.50,
+              "height": 9.50,
+              "offsetX": 4.00,
+              "offsetY": 3.50,
+              "path": "/pets/8/4_element_2.png"
+            }
+          ]
         }
       ]
     }
