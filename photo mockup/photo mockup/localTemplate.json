@@ -3361,6 +3361,60 @@
               "offsetY": 22.00
             }
           ]
+        },
+        {
+          "index": 5,
+          "postImage": "/dark/5/mockup.png",
+          "bg": {
+            "color": "#201f1f",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "#000000",
+                "path": ""
+              },
+              "fg": {
+                "path": "/dark/5/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 86.00,
+              "height": 65.00,
+              "offsetX": 6.50,
+              "offsetY": 4.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 2.50,
+                "start": 2.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "offsetX": 5.00,
+              "offsetY": 3.00,
+              "width": 87.00,
+              "height": 66.00,
+              "path": "/dark/5/2_shape_2.png",
+              "angle": 0
+            },
+            {
+              "isLock": false,
+              "offsetX": 25.00,
+              "offsetY": 73.00,
+              "width": 23,
+              "height": 23,
+              "path": "/dark/5/2_shape_3.png",
+              "angle": 0
+            }
+
+          ]
         }
       ]
     }
