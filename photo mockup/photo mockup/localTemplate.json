@@ -3176,16 +3176,10 @@
                 "path": "/pets/10/3_shape_2.png"
               },
               "shape": "",
-              "width": 88.00,
-              "height": 88.50,
-              "offsetX": 6.00,
-              "offsetY": 6.00,
-              "margin": {
-                "top": 1.00,
-                "bottom": 1.00,
-                "end": 1.00,
-                "start": 1.00
-              }
+              "width": 72.00,
+              "height": 80.50,
+              "offsetX": 14.50,
+              "offsetY": 9.00
             }
           ]
         }
@@ -3202,32 +3196,33 @@
           "index": 1,
           "postImage": "/dark/1/mockup.png",
           "bg": {
-            "color": "#ffffff",
-            "path": ""
+            "color": "",
+            "path": "/dark/1/1_bg.png"
           },
           "fg": {
-            "path": "/pets/1/3_element_1.png"
+            "path": ""
           },
           "imageItems": [
             {
               "bg": {
                 "color": "",
-                "path": "/pets/1/2_shape_2.png"
+                "path": "/dark/1/2_shape_1.png"
               },
               "fg": {
-                "path": "/pets/1/2_shape_1.png"
+                "path": "/dark/1/2_shape_2.png"
               },
               "shape": "",
               "width": 75.00,
-              "height": 88.00,
+              "height": 38.00,
               "offsetX": 13.00,
               "offsetY": 6.00,
               "margin": {
-                "tlr": 80.00,
-                "trr": 80.00,
-                "brr": 80.00,
-                "blr": 80.00
+                "top": 2.50,
+                "bottom": 1.50,
+                "end": 1.00,
+                "start": 1.00
               }
+
             }
           ]
         }
