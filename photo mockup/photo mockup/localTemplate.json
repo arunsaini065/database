@@ -3212,17 +3212,153 @@
                 "path": "/dark/1/2_shape_2.png"
               },
               "shape": "",
-              "width": 75.00,
-              "height": 38.00,
-              "offsetX": 13.00,
+              "width": 88.00,
+              "height": 43.00,
+              "offsetX": 6.00,
               "offsetY": 6.00,
               "margin": {
                 "top": 2.50,
-                "bottom": 1.50,
-                "end": 1.00,
-                "start": 1.00
+                "bottom": 3.50,
+                "end": 5.00,
+                "start": 5.00
               }
 
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/dark/1/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/dark/1/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 43.00,
+              "offsetX": 6.00,
+              "offsetY": 51.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 3.50,
+                "end": 5.00,
+                "start": 5.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/dark/2/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/dark/2/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/dark/2/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/dark/2/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 86.00,
+              "height": 72.00,
+              "offsetX": 7.00,
+              "offsetY": 5.60,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 5.00,
+                "start": 5.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/dark/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/dark/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/dark/3/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/dark/3/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 66.00,
+              "height": 44.00,
+              "offsetX": 28.00,
+              "offsetY": 5.60,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 5.00,
+                "start": 5.00
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/dark/3/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/dark/3/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 66.00,
+              "height": 44.00,
+              "offsetX": 8.00,
+              "offsetY": 52.60,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 5.00,
+                "start": 5.00
+              }
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/dark/4/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/dark/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/dark/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/dark/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 55.00,
+              "offsetX": 10.50,
+              "offsetY": 22.00
             }
           ]
         }
