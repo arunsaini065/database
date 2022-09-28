@@ -3155,6 +3155,81 @@
               "path": "/pets/9/4_element_3.png"
             }
           ]
+        },
+        {
+          "index": 10,
+          "postImage": "/pets/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/pets/10/1_bg.png"
+          },
+          "fg": {
+            "path": "/pets/10/2_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/10/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/pets/10/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 88.50,
+              "offsetX": 6.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.00,
+                "end": 1.00,
+                "start": 1.00
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Dark",
+      "categoryId": "dark_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/dark/dark.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/dark/1/mockup.png",
+          "bg": {
+            "color": "#ffffff",
+            "path": ""
+          },
+          "fg": {
+            "path": "/pets/1/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/pets/1/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/pets/1/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 75.00,
+              "height": 88.00,
+              "offsetX": 13.00,
+              "offsetY": 6.00,
+              "margin": {
+                "tlr": 80.00,
+                "trr": 80.00,
+                "brr": 80.00,
+                "blr": 80.00
+              }
+            }
+          ]
         }
       ]
     }
