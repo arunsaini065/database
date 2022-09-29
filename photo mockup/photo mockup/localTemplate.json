@@ -3653,6 +3653,351 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Neons",
+      "categoryId": "neons_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/dark/dark.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/neon/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/1/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/1/3_element.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 88.00,
+              "offsetX": 6.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 4.00,
+                "start": 4.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/neon/2/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/2/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/2/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/2/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 88.00,
+              "offsetX": 6.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 4.00,
+                "start": 4.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/neon/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/3/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/3/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 43.00,
+              "offsetX": 6.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 4.50,
+                "bottom": 4.50,
+                "end": 7.00,
+                "start": 7.00
+              }
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/3/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/neon/3/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 43.00,
+              "offsetX": 6.00,
+              "offsetY": 51.00,
+              "margin": {
+                "top": 4.50,
+                "bottom": 4.50,
+                "end": 7.00,
+                "start": 7.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/neon/4/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 92.00,
+              "height": 92.00,
+              "offsetX": 5.00,
+              "offsetY": 4.00,
+              "margin": {
+                "top": 8.50,
+                "bottom": 8.50,
+                "end": 15.00,
+                "start": 15.00
+              }
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/neon/5/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/5/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/5/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/5/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 87.00,
+              "height": 88.50,
+              "offsetX": 6.00,
+              "offsetY": 6.50,
+              "margin": {
+                "top": 4.00,
+                "bottom": 4.00,
+                "end": 7.00,
+                "start": 7.00
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 22.00,
+              "height": 22.00,
+              "path": "/neon/5/3_element_1.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 72.00,
+              "offsetY": 72.00,
+              "width": 28,
+              "height": 28,
+              "path": "/neon/5/3_element_2.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 6,
+          "postImage": "/neon/6/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/6/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/6/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/neon/6/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 88.00,
+              "offsetX": 6.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 4.80,
+                "start": 4.80,
+                "tlr": 94.00,
+                "trr": 94.00,
+                "brr": 94.00,
+                "blr": 94.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/neon/7/mockup.png",
+          "bg": {
+            "color": "#190101",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/7/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/neon/7/3_element_1.png"
+              },
+              "shape": "",
+              "width": 87.00,
+              "height": 88.50,
+              "offsetX": 6.00,
+              "offsetY": 6.50,
+              "margin": {
+                "top": 4.50,
+                "bottom": 4.50,
+                "end": 7.00,
+                "start": 7.00
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 100.00,
+              "height": 100.00,
+              "path": "/neon/7/2_element_1.png",
+              "angle": 0
+            }, {
+              "isLock": true,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 100,
+              "height": 100,
+              "path": "/neon/7/3_element_2.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 8,
+          "postImage": "/neon/8/mockup.png",
+          "bg": {
+            "color": "#053736",
+            "path": ""
+          },
+          "fg": {
+            "path": "/neon/8/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/8/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/8/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 87.00,
+              "height": 88.50,
+              "offsetX": 6.00,
+              "offsetY": 6.50,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 2.90,
+                "start": 2.90,
+                "tlr": 115.00,
+                "trr": 0.00,
+                "brr": 115.00,
+                "blr": 0.00
+              }
+            }
+          ]
+        }
+      ]
     }
   ]
 }
