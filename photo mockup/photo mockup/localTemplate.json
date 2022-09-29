@@ -3658,7 +3658,7 @@
       "categoryName": "Neons",
       "categoryId": "neons_id",
       "categoryImage": "/love/icon tmp_Wedding_fll.png",
-      "postUrl": "/dark/dark.jpg",
+      "postUrl": "/neon/neon.jpg",
       "isPremium": 0,
       "items":[
         {
@@ -3993,6 +3993,76 @@
                 "trr": 0.00,
                 "brr": 115.00,
                 "blr": 0.00
+              }
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/neon/9/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/9/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/9/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/9/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 95.00,
+              "height": 50.50,
+              "offsetX": 2.50,
+              "offsetY": 24.00,
+              "margin": {
+                "top": 6.00,
+                "bottom": 6.00,
+                "end": 9.80,
+                "start": 9.80
+              }
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/neon/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/neon/10/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/neon/10/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/neon/10/2_element_1.png"
+              },
+              "shape": "",
+              "width": 98.00,
+              "height": 92.00,
+              "offsetX": 1.80,
+              "offsetY": 4.00,
+              "margin": {
+                "top": 18.50,
+                "bottom": 7.50,
+                "end": 22.00,
+                "start": 12.00,
+                "tlr": 8.00,
+                "trr": 8.00,
+                "brr": 8.00,
+                "blr": 8.00
               }
             }
           ]
