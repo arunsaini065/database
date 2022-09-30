@@ -4426,6 +4426,116 @@
             }
           ]
 
+        },
+        {
+          "index": 8,
+          "postImage": "/fashion/8/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/8/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/8/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/8/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 84.00,
+              "offsetX": 9.50,
+              "offsetY": 8.60,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 0.50,
+                "start": 0.50,
+                "tlr": 40.00,
+                "trr": 40.00,
+                "brr": 40.00,
+                "blr": 40.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/fashion/9/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/9/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/9/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/9/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 83.00,
+              "offsetX": 8.00,
+              "offsetY": 9.00,
+              "margin": {
+                "top": 2.60,
+                "bottom": 2.60,
+                "end": 5.10,
+                "start": 5.10
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/fashion/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/10/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/10/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/10/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 55.00,
+              "offsetX": 8.00,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 0.60,
+                "bottom": 0.60,
+                "end": 0.10,
+                "start": 0.10,
+                "tlr": 80.00,
+                "trr": 0.00,
+                "brr": 83.00,
+                "blr": 0.00
+              }
+
+            }
+          ]
         }
       ]
     }
