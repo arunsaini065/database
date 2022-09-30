@@ -4068,6 +4068,366 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Fashion",
+      "categoryId": "fashion_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/neon/neon.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/fashion/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/1/1_bg.png"
+          },
+          "fg": {
+            "path": "/fashion/1/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 80.00,
+              "offsetX": 8.00,
+              "offsetY": 9.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/fashion/2/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/2/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/2/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/2/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 67.00,
+              "height": 83.00,
+              "offsetX": 28.50,
+              "offsetY": 14.50,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50,
+                "tlr": 12.00,
+                "trr": 12.00,
+                "brr": 12.00,
+                "blr": 12.00
+              }
+
+            }
+          ],
+          "textItems": [
+            {
+              "text": "New Winter Season Out Now",
+              "offsetX": 15.00,
+              "offsetY": 90.00,
+              "width": 100.00,
+              "height": 10.00,
+              "textColor": "#fcf1e6",
+              "scale": 1.0,
+              "fontPath": "/fashion/2/AbrilFatface-Regular.ttf",
+              "textSize": 23.0,
+              "isLock": false,
+              "angle": -90
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 36,
+              "height": 36,
+              "path": "/fashion/2/2_element_1.png",
+              "angle": 0
+            },{
+              "isLock": true,
+              "offsetX": 0.00,
+              "offsetY": 72.50,
+              "width": 26.00,
+              "height": 26.00,
+              "path":"/fashion/2/2_element_2.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 3,
+          "postImage": "/fashion/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/3/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/3/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 95.00,
+              "height": 53.00,
+              "offsetX": 2.50,
+              "offsetY": 2.20,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.00,
+              "offsetY":55.00,
+              "width": 46,
+              "height": 46,
+              "path": "/fashion/3/2_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 4,
+          "postImage": "/fashion/4/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 65.00,
+              "height": 95.00,
+              "offsetX": 34.00,
+              "offsetY": 5.50,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 5.00,
+              "offsetY": 23.00,
+              "width": 39.70,
+              "height": 39.70,
+              "path": "/fashion/4/3_element.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/fashion/5/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/5/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/5/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/5/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 87.00,
+              "height": 49.00,
+              "offsetX": 7.00,
+              "offsetY": 13.50,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 1.00,
+              "offsetY":65.00,
+              "width": 35,
+              "height": 35,
+              "path": "/fashion/5/3_element.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "postImage": "/fashion/6/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/6/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/6/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/6/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 87.00,
+              "height": 82.00,
+              "offsetX": 7.00,
+              "offsetY": 11.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 7.50,
+                "start": 7.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/fashion/7/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/fashion/7/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/7/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/7/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 70.00,
+              "offsetX": 8.00,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 0.80,
+                "bottom": 1.00,
+                "end": 1.50,
+                "start": 1.50
+              }
+            }
+          ],
+          "textItems": [
+            {
+              "text": "SPRING/SUMMER",
+              "offsetX": 6.00,
+              "offsetY": 74.50,
+              "width": 40.00,
+              "height": 10.00,
+              "textColor": "#ffffff",
+              "scale": 1.0,
+              "fontPath": "/fashion/7/Raleway-Regular.ttf",
+              "textSize": 14.0,
+              "isLock": false,
+              "angle": 0
+            }, {
+              "text": "CHECK",
+              "offsetX": 5.50,
+              "offsetY": 79.00,
+              "width": 40.00,
+              "height": 10.00,
+              "textColor": "#facfc3",
+              "fontPath": "/fashion/7/Raleway-Bold.ttf",
+              "scale": 1.0,
+              "textSize": 37.0,
+              "isLock": false,
+              "angle": 0
+            },
+            {
+              "text": "OUR TRENDS",
+              "offsetX": 6.00,
+              "offsetY": 83.40,
+              "width": 50.00,
+              "height": 10.00,
+              "textColor": "#facfc3",
+              "scale": 1.0,
+              "fontPath": "/fashion/7/Raleway-Regular.ttf",
+              "textSize": 26.0,
+              "isLock": false,
+              "angle": 0
+            }
+          ]
+
+        }
+      ]
     }
   ]
 }
