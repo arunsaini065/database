@@ -4073,7 +4073,7 @@
       "categoryName": "Fashion",
       "categoryId": "fashion_id",
       "categoryImage": "/love/icon tmp_Wedding_fll.png",
-      "postUrl": "/neon/neon.jpg",
+      "postUrl": "/fashion/fashion.jpg",
       "isPremium": 0,
       "items":[
         {
@@ -4560,14 +4560,90 @@
             {
               "bg": {
                 "color": "",
-                "path": "/fashion/1/2_shape_1.png"
+                "path": "/film/1/2_shape_1.png"
               },
               "fg": {
-                "path": "/fashion/1/2_shape_2.png"
+                "path": "/film/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 64.00,
+              "height": 48.00,
+              "offsetX": 18.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 0.00,
+                "bottom": 1.50,
+                "end": 0.50,
+                "start": 1.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/1/2_shape_5.png"
+              },
+              "fg": {
+                "path": "/film/1/2_shape_6.png"
+              },
+              "shape": "",
+              "width": 53.00,
+              "height": 38.00,
+              "offsetX": 43.50,
+              "offsetY": 56.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.50,
+                "end": 2.60,
+                "start": 2.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/1/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/film/1/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 40.00,
+              "height": 29.00,
+              "offsetX": 5.60,
+              "offsetY": 59.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.50,
+                "end": 2.60,
+                "start": 2.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/film/2/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/2/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/2/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/film/2/2_shape_2.png"
               },
               "shape": "",
               "width": 84.00,
-              "height": 80.00,
+              "height": 84.50,
               "offsetX": 8.00,
               "offsetY": 9.00,
               "margin": {
@@ -4578,6 +4654,344 @@
               }
 
             }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/film/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/3/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/film/3/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 64.50,
+              "offsetX": 8.00,
+              "offsetY": 19.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/film/4/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/film/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 60.50,
+              "offsetX": 11.00,
+              "offsetY": 19.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 2.50
+              }
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/film/5/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/5/1_bg.png"
+          },
+          "fg": {
+            "path": "/film/5/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/5/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/film/5/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 82.00,
+              "height": 52.00,
+              "offsetX": 9.00,
+              "offsetY": 4.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 2.00,
+                "start": 2.00
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/5/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/film/5/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 82.00,
+              "height": 38.00,
+              "offsetX": 9.00,
+              "offsetY": 58.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 2.60,
+                "start": 2.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "postImage": "/film/6/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/6/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/6/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/film/6/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 82.50,
+              "offsetX": 8.00,
+              "offsetY": 9.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 1.70,
+                "end": 3.50,
+                "start": 3.50,
+                "tlr": 16.00,
+                "trr": 16.00,
+                "brr": 16.00,
+                "blr": 16.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/film/7/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/7/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/7/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/film/7/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 62.50,
+              "offsetX": 8.00,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.70,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/film/8/mockup.png",
+          "bg": {
+            "color": "#ffffff",
+            "path": ""
+          },
+          "fg": {
+            "path": "/film/8/2_shape_3.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/8/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/film/8/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 74.50,
+              "height": 78.50,
+              "offsetX": 13.00,
+              "offsetY": 11.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/film/9/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/9/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/9/2_shape_1.png"
+              },
+              "fg": {
+                "path": ""
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 72.00,
+              "offsetX": 10.00,
+              "offsetY": 23.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/9/2_shape_2.png"
+              },
+              "fg": {
+                "path": ""
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 72.00,
+              "offsetX": 10.00,
+              "offsetY": -49.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/film/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/10/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/10/2_shape_2.png"
+              },
+              "fg": {
+                "path": ""
+              },
+              "shape": "",
+              "width": 89.00,
+              "height": 48.00,
+              "offsetX": 6.00,
+              "offsetY": 2.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/10/2_shape_1.png"
+              },
+              "fg": {
+                "path": ""
+              },
+              "shape": "",
+              "width": 89.00,
+              "height": 48.00,
+              "offsetX": 6.00,
+              "offsetY": 50.50,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+
           ]
         }
       ]
