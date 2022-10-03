@@ -4538,6 +4538,49 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Film",
+      "categoryId": "film_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/film/film.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/film/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/film/1/1_bg.png"
+          },
+          "fg": {
+            "path": "/film/1/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/fashion/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/fashion/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 80.00,
+              "offsetX": 8.00,
+              "offsetY": 9.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ]
+        }
+      ]
     }
   ]
 }
