@@ -4995,6 +4995,91 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Food",
+      "categoryId": "food_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/food/food.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/food/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/food/1/1_bg.png"
+          },
+          "fg": {
+            "path": "/food/1/3_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 64.00,
+              "height": 48.00,
+              "offsetX": 18.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 0.00,
+                "bottom": 1.50,
+                "end": 0.50,
+                "start": 1.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/1/2_shape_5.png"
+              },
+              "fg": {
+                "path": "/film/1/2_shape_6.png"
+              },
+              "shape": "",
+              "width": 53.00,
+              "height": 38.00,
+              "offsetX": 43.50,
+              "offsetY": 56.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.50,
+                "end": 2.60,
+                "start": 2.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/film/1/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/film/1/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 40.00,
+              "height": 29.00,
+              "offsetX": 5.60,
+              "offsetY": 59.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.50,
+                "end": 2.60,
+                "start": 2.50
+              }
+
+            }
+          ]
+        }
+      ]
     }
   ]
 }
