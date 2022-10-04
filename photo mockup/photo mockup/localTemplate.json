@@ -5104,6 +5104,280 @@
 
             }
           ]
+        },
+        {
+          "index": 4,
+          "postImage": "/food/4/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/food/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 94.00,
+              "height": 94.00,
+              "offsetX": 3.60,
+              "offsetY": 2.50,
+              "margin": {
+                "top": 5.50,
+                "bottom": 5.50,
+                "end": 7.90,
+                "start": 7.90
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.00,
+              "offsetY": 79.00,
+              "width": 60,
+              "height": 21.20,
+              "path": "/food/4/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 5,
+          "postImage": "/food/5/mockup.png",
+          "bg": {
+            "color": "#f4e6d1",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/5/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/5/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 81.00,
+              "offsetX": 8.40,
+              "offsetY": 9.50,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 3.90,
+                "start": 3.90
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 6,
+          "postImage": "/food/6/mockup.png",
+          "bg": {
+            "color": "#fbaf39",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/6/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/6/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 61.00,
+              "offsetX": 8.40,
+              "offsetY": 7.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 3.90,
+                "start": 3.90
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 8.00,
+              "offsetY": 71.00,
+              "width": 60,
+              "height": 26.00,
+              "path": "/food/6/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 7,
+          "postImage": "/food/7/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/food/7/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/7/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/7/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 60.00,
+              "offsetX": 8.40,
+              "offsetY": 36.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 3.30,
+                "start": 3.30
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 9.00,
+              "offsetY": 2.00,
+              "width": 60,
+              "height": 33.00,
+              "path": "/food/7/2_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 8,
+          "postImage": "/food/8/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/food/8/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/8/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/8/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 84.00,
+              "offsetX": 9.50,
+              "offsetY": 9.00,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 4.50,
+                "start": 4.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/food/9/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/food/9/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/9/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/9/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 90.00,
+              "offsetX": 9.50,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 2.90,
+                "bottom": 2.90,
+                "end": 4.90,
+                "start": 4.90
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/food/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/food/10/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/food/10/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/food/10/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 85.00,
+              "offsetX": 9.50,
+              "offsetY": 8.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 0.50,
+                "start": 0.50
+              }
+
+            }
+          ]
         }
       ]
     }
