@@ -5130,8 +5130,8 @@
               "offsetX": 3.60,
               "offsetY": 2.50,
               "margin": {
-                "top": 5.50,
-                "bottom": 5.50,
+                "top": 5.80,
+                "bottom": 5.80,
                 "end": 7.90,
                 "start": 7.90
               }
@@ -5159,7 +5159,7 @@
             "path": ""
           },
           "fg": {
-            "path": ""
+            "path": "/food/5/3_element.png"
           },
           "imageItems": [
             {
@@ -5253,13 +5253,13 @@
               "shape": "",
               "width": 85.00,
               "height": 60.00,
-              "offsetX": 8.40,
+              "offsetX": 8.00,
               "offsetY": 36.00,
               "margin": {
-                "top": 2.00,
-                "bottom": 2.00,
-                "end": 3.30,
-                "start": 3.30
+                "top": 1.80,
+                "bottom": 1.80,
+                "end": 3.10,
+                "start": 3.10
               }
 
             }
@@ -5376,6 +5376,68 @@
                 "start": 0.50
               }
 
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Retro",
+      "categoryId": "retro_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/retro/retro.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/retro/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/retro/1/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/retro/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/retro/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 43.00,
+              "offsetX": 10.50,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 2.50,
+                "start": 2.50
+              }
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/retro/1/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/retro/1/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 43.00,
+              "offsetX": 10.50,
+              "offsetY": 52.00,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 2.50,
+                "start": 2.50
+              }
             }
           ]
         }
