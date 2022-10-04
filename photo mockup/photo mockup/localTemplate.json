@@ -4647,10 +4647,14 @@
               "offsetX": 8.00,
               "offsetY": 9.00,
               "margin": {
-                "top": 1.50,
-                "bottom": 1.50,
+                "top": 1.90,
+                "bottom": 1.90,
                 "end": 3.50,
-                "start": 3.50
+                "start": 3.50,
+                "tlr": 14.00,
+                "trr": 14.00,
+                "brr": 14.00,
+                "blr": 14.00
               }
 
             }
@@ -5438,6 +5442,44 @@
                 "end": 2.50,
                 "start": 2.50
               }
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/retro/2/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/retro/2/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/retro/2/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/retro/2/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 73.00,
+              "height": 90.50,
+              "offsetX": 5.00,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.50,
+                "start": 1.50,
+                "tlr": 14.00,
+                "trr": 14.00,
+                "brr": 14.00,
+                "blr": 14.00
+              }
+
             }
           ]
         }
