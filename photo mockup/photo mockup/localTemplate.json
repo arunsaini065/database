@@ -5783,6 +5783,526 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Halloween",
+      "categoryId": "halloween_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/halloween/halloween.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/halloween/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/halloween/1/1_bg.png"
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/halloween/1/2_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/1/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/1/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 55.00,
+              "height": 29.00,
+              "offsetX": 12.50,
+              "offsetY": 3.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 4.50,
+                "start": 4.50
+              }
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/1/3_shape_3.png"
+              },
+              "fg": {
+                "path": "/halloween/1/3_shape_4.png"
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 40.00,
+              "offsetX": 1.00,
+              "offsetY": 29.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 5.50,
+                "start": 5.50
+              }
+            },{
+              "bg": {
+                "color": "",
+                "path": "/halloween/1/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/1/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 55.00,
+              "height": 29.00,
+              "offsetX": 4.50,
+              "offsetY": 66.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 5.50,
+                "start": 4.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.40,
+              "offsetY": 24.00,
+              "width": 24,
+              "height": 24,
+              "path": "/halloween/1/2_element_2.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 24.00,
+              "offsetY":49.00,
+              "width": 52,
+              "height": 52,
+              "path": "/halloween/1/4_element_1.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 2,
+          "postImage": "/halloween/2/mockup.png",
+          "bg": {
+            "color": "#934b4f",
+            "path": ""
+          },
+          "fg": {
+            "path": "/halloween/2/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/2/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/2/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 75.00,
+              "height": 88.00,
+              "offsetX": 13.00,
+              "offsetY": 6.00,
+              "margin": {
+                "end": 0.50
+              }
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/halloween/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/halloween/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/3/2_shape_2.png"
+              },
+              "fg": {
+                "path": "/halloween/3/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 82.00,
+              "height": 88.00,
+              "offsetX": 9.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 9.50,
+                "start": 12.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 5.00,
+              "offsetY": 5.00,
+              "width": 90,
+              "height": 90,
+              "path": "/halloween/3/3_element.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/halloween/4/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/halloween/4/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 86.00,
+              "height": 55.50,
+              "offsetX": 7.00,
+              "offsetY": 20.60,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.00,
+                "start": 3.00,
+                "tlr": 40.00,
+                "trr": 40.00,
+                "brr": 40.00,
+                "blr": 40.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 7.00,
+              "offsetY": 2.00,
+              "width": 30,
+              "height": 16.00,
+              "path": "/halloween/4/3_element_1.png",
+              "angle": 0
+            } , {
+              "isLock": false,
+              "offsetX": 5.00,
+              "offsetY": 79.00,
+              "width": 30,
+              "height": 19.00,
+              "path": "/halloween/4/3_element_2.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 5,
+          "postImage": "/halloween/5/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/halloween/5/1_bg.png"
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/halloween/5/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/5/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/5/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 86.00,
+              "height": 75.50,
+              "offsetX": 7.00,
+              "offsetY": 10.60,
+              "margin": {
+                "top": 1.50,
+                "bottom": 1.50,
+                "end": 3.00,
+                "start": 3.00,
+                "tlr": 130.00,
+                "trr": 130.00,
+                "brr": 0.00,
+                "blr": 0.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 2.00,
+              "offsetY": 66.00,
+              "width": 40,
+              "height": 31.00,
+              "path": "/halloween/5/4_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 6,
+          "postImage": "/halloween/6/mockup.png",
+          "bg": {
+            "color": "#6c505c",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/6/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/6/1_bg_2.png"
+              },
+              "shape": "",
+              "width": 100.00,
+              "height": 98.50,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.50,
+                "start": 1.50,
+                "tlr": 14.00,
+                "trr": 14.00,
+                "brr": 14.00,
+                "blr": 14.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "offsetX": 4.00,
+              "offsetY": 3.00,
+              "width": 90,
+              "height": 88.50,
+              "path": "/halloween/6/2_shape.png",
+              "angle": 0
+            }, {
+              "isLock": true,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 100,
+              "height": 100,
+              "path": "/halloween/6/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 7,
+          "postImage": "/halloween/7/mockup.png",
+          "bg": {
+            "color": "#1f1f1f",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/7/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/7/1_bg_2.png"
+              },
+              "shape": "",
+              "width": 100.00,
+              "height": 98.50,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.50,
+                "start": 1.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "width": 90,
+              "height": 97.00,
+              "path": "/halloween/7/2_element.png",
+              "angle": 0
+            },{
+              "isLock": true,
+              "offsetX": 12.00,
+              "offsetY": 13.00,
+              "width": 67.00,
+              "height": 73.60,
+              "path": "/halloween/7/3_shape.png",
+              "angle": 0
+            }, {
+              "isLock": true,
+              "offsetX": 4.00,
+              "offsetY": 13.00,
+              "width": 60,
+              "height": 60,
+              "path": "/halloween/7/4_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 8,
+          "postImage": "/halloween/8/mockup.png",
+          "bg": {
+            "color": "#ff7601",
+            "path": ""
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/halloween/8/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/8/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/8/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 84.00,
+              "height": 74.00,
+              "offsetX": 8.00,
+              "offsetY": 25.90,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.00,
+                "end": 2.00,
+                "start": 2.00,
+                "tlr": 120.00,
+                "trr": 120.00,
+                "brr": 0.00,
+                "blr": 0.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/halloween/9/mockup.png",
+          "bg": {
+            "color": "#f4dcba",
+            "path": ""
+          },
+          "fg": {
+            "path": "/halloween/9/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/9/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/9/2_shape.png"
+              },
+              "shape": "",
+              "width": 100.00,
+              "height": 98.50,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.50,
+                "start": 1.50,
+                "tlr": 14.00,
+                "trr": 14.00,
+                "brr": 14.00,
+                "blr": 14.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/halloween/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/halloween/10/1_bg.png"
+          },
+          "fg": {
+            "path": "/halloween/10/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/10/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/10/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 77.00,
+              "height": 65.50,
+              "offsetX": 11.00,
+              "offsetY": 18.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.20,
+                "start": 1.20,
+                "tlr": 17.00,
+                "trr": 17.00,
+                "brr": 17.00,
+                "blr": 17.00
+              }
+
+            }
+          ]
+        }
+      ]
     }
 
   ]
