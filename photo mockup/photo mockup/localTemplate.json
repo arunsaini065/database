@@ -6315,101 +6315,8 @@
           "index": 1,
           "postImage": "/diwali/1/mockup.png",
           "bg": {
-            "color": "",
-            "path": "/diwali/1/1_bg.png"
-          },
-          "fg": {
-            "backLayer": true,
-            "path": "/halloween/1/2_element_1.png"
-          },
-          "imageItems": [
-            {
-              "bg": {
-                "color": "",
-                "path": "/halloween/1/3_shape_1.png"
-              },
-              "fg": {
-                "path": "/halloween/1/3_shape_2.png"
-              },
-              "shape": "",
-              "width": 55.00,
-              "height": 29.00,
-              "offsetX": 12.50,
-              "offsetY": 3.00,
-              "margin": {
-                "top": 3.50,
-                "bottom": 3.50,
-                "end": 4.50,
-                "start": 4.50
-              }
-            },
-            {
-              "bg": {
-                "color": "",
-                "path": "/halloween/1/3_shape_3.png"
-              },
-              "fg": {
-                "path": "/halloween/1/3_shape_4.png"
-              },
-              "shape": "",
-              "width": 78.00,
-              "height": 40.00,
-              "offsetX": 1.00,
-              "offsetY": 29.00,
-              "margin": {
-                "top": 3.50,
-                "bottom": 3.50,
-                "end": 5.50,
-                "start": 5.50
-              }
-            },{
-              "bg": {
-                "color": "",
-                "path": "/halloween/1/3_shape_1.png"
-              },
-              "fg": {
-                "path": "/halloween/1/3_shape_2.png"
-              },
-              "shape": "",
-              "width": 55.00,
-              "height": 29.00,
-              "offsetX": 4.50,
-              "offsetY": 66.00,
-              "margin": {
-                "top": 3.50,
-                "bottom": 3.50,
-                "end": 5.50,
-                "start": 4.50
-              }
-            }
-          ],
-          "stickerItems": [
-            {
-              "isLock": false,
-              "offsetX": 0.40,
-              "offsetY": 24.00,
-              "width": 24,
-              "height": 24,
-              "path": "/halloween/1/2_element_2.png",
-              "angle": 0
-            }, {
-              "isLock": false,
-              "offsetX": 24.00,
-              "offsetY":49.00,
-              "width": 52,
-              "height": 52,
-              "path": "/halloween/1/4_element_1.png",
-              "angle": 0
-            }
-          ]
-
-        },
-        {
-          "index": 2,
-          "postImage": "/diwali/3/mockup.png",
-          "bg": {
-            "color": "",
-            "path": "/diwali/3/1_bg.png"
+            "color": "#ddab68",
+            "path": ""
           },
           "fg": {
             "path": ""
@@ -6418,21 +6325,214 @@
             {
               "bg": {
                 "color": "",
-                "path": "/diwali/3/3_shape_1.png"
+                "path": ""
               },
               "fg": {
-                "path": "/diwali/3/3_shape_2.png"
+                "path": "/diwali/1/1_bg.png"
               },
               "shape": "",
-              "width": 95.00,
-              "height": 53.00,
-              "offsetX": 2.50,
-              "offsetY": 2.20,
+              "width": 100.00,
+              "height": 100.00,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 4.50,
+                "start": 4.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 5.40,
+              "offsetY": 75.50,
+              "width": 20,
+              "height": 20,
+              "path": "/diwali/1/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 2,
+          "postImage": "/diwali/2/mockup.png",
+          "bg": {
+            "color": "#900811",
+            "path": ""
+          },
+          "fg": {
+            "path": "/diwali/2/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/2/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/2/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 54.50,
+              "offsetX": 6.00,
+              "offsetY": 13.00,
               "margin": {
                 "top": 2.50,
                 "bottom": 2.50,
                 "end": 3.50,
-                "start": 3.50
+                "start": 3.50,
+                "tlr": 22.00,
+                "trr": 22.00,
+                "brr": 22.00,
+                "blr": 22.00
+              }
+
+            }
+          ]
+
+        },
+        {
+          "index": 3,
+          "postImage": "/diwali/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/diwali/3/1_bg.png"
+          },
+          "fg": {
+            "path": "/diwali/3/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/3/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/3/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 54.50,
+              "offsetX": 6.00,
+              "offsetY": 12.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 3.50,
+                "start": 3.50,
+                "tlr": 22.00,
+                "trr": 0.00,
+                "brr": 22.00,
+                "blr": 0.00
+              }
+
+            }
+          ]
+
+        },
+        {
+          "index": 4,
+          "postImage": "/diwali/4/mockup.png",
+          "bg": {
+            "color": "#521d6d",
+            "path": ""
+          },
+          "fg": {
+            "path": "/diwali/4/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 80.50,
+              "offsetX": 12.00,
+              "offsetY": 7.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.50,
+                "start": 1.50
+              }
+
+            }
+          ]
+
+        },
+        {
+          "index": 5,
+          "postImage": "/diwali/5/mockup.png",
+          "bg": {
+            "color": "#550647",
+            "path": ""
+          },
+          "fg": {
+            "path": "/diwali/5/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/5/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/5/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 64.50,
+              "offsetX": 10.00,
+              "offsetY": 16.90,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.00,
+                "start": 1.00
+              }
+
+            }
+          ]
+
+        },
+        {
+          "index": 6,
+          "postImage": "/diwali/6/mockup.png",
+          "bg": {
+            "color": "#195266",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/6/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/6/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 71.00,
+              "height": 74.50,
+              "offsetX": 15.50,
+              "offsetY": 12.90,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.00,
+                "start": 1.00
               }
 
             }
@@ -6441,16 +6541,584 @@
             {
               "isLock": false,
               "offsetX": 0.00,
-              "offsetY":55.00,
-              "width": 46,
-              "height": 46,
-              "path": "/diwali/3/2_element.png",
+              "offsetY": 0.00,
+              "width": 28,
+              "height": 28,
+              "path": "/diwali/6/3_element_1.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 8.80,
+              "offsetY":64.00,
+              "width": 31.50,
+              "height": 31.50,
+              "path": "/diwali/6/3_element_2.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/diwali/7/mockup.png",
+          "bg": {
+            "color": "#a10556",
+            "path": ""
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/diwali/7/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/7/3_shape_2.png"
+              },
+              "fg": {
+                "path": "/diwali/7/3_shape_1.png"
+              },
+              "shape": "",
+              "width": 80.00,
+              "height": 46.30,
+              "offsetX": 10.40,
+              "offsetY": 10.50,
+              "margin": {
+                "top": 2.20,
+                "bottom": 2.20,
+                "end": 4.00,
+                "start": 4.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "width": 84.00,
+              "height": 49.00,
+              "offsetX": 8.00,
+              "offsetY": 9.00,
+              "path": "/diwali/7/3_shape_3.png",
               "angle": 0
             }
           ]
 
+        },
+        {
+          "index": 8,
+          "postImage": "/diwali/8/mockup.png",
+          "bg": {
+            "color": "#bc751b",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/8/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/8/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.50,
+              "height": 50.30,
+              "offsetX": 6.40,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 1.20,
+                "bottom": 1.20,
+                "end": 2.00,
+                "start": 2.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "width": 42.20,
+              "height": 42.20,
+              "offsetX": 0.00,
+              "offsetY": 57.80,
+              "path": "/diwali/8/2_element.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/diwali/9/mockup.png",
+          "bg": {
+            "color": "#6e5493",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": ""
+              },
+              "fg": {
+                "path": "/diwali/9/1_bg_2.png"
+              },
+              "shape": "",
+              "width": 100.00,
+              "height": 100.00,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 4.50,
+                "start": 4.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.00,
+              "offsetY": 53.00,
+              "width": 47,
+              "height": 47,
+              "path": "/diwali/9/2_element_2.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 10,
+          "postImage": "/diwali/10/mockup.png",
+          "bg": {
+            "color": "#000000",
+            "path": "/diwali/10/1_bg.png"
+          },
+          "fg": {
+            "path": "/diwali/10/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/10/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/10/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 74.50,
+              "height": 80.00,
+              "offsetX": 12.90,
+              "offsetY": 16.00,
+              "margin": {
+                "top": 3.20,
+                "bottom": 3.20,
+                "end": 7.00,
+                "start": 7.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "width": 42.20,
+              "height": 42.20,
+              "offsetX": 0.00,
+              "offsetY": 57.80,
+              "path": "/diwali/10/2_element.png",
+              "angle": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "categoryName": "Flower",
+      "categoryId": "flower_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/flower/flower.jpg",
+      "isPremium": 0,
+      "items": [
+        {
+          "index": 1,
+          "postImage": "/flower/1/mockup.png",
+          "bg": {
+            "color": "#f3f0ec",
+            "path": ""
+          },
+          "fg": {
+            "path": "/flower/1/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 77.00,
+              "height": 86.00,
+              "offsetX": 11.00,
+              "offsetY": 7.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 4.00,
+                "start": 4.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/flower/2/mockup.png",
+          "bg": {
+            "color": "#fff6e2",
+            "path": ""
+          },
+          "fg": {
+            "path": "/flower/2/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/2/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/2/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 90.00,
+              "height": 45.00,
+              "offsetX": 4.60,
+              "offsetY": 26.50,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 4.00,
+                "start": 4.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/flower/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/flower/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/3/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/3/3_shape_3.png"
+              },
+              "shape": "",
+              "width": 82.00,
+              "height": 45.50,
+              "offsetX": 8.30,
+              "offsetY": 5.00,
+              "margin": {
+                "top": 1.70,
+                "bottom": 1.70,
+                "end": 3.50,
+                "start": 3.50,
+                "tlr": 126.00,
+                "trr": 126.00,
+                "brr": 126.00,
+                "blr": 126.00
+              }
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/3/3_shape_2.png"
+              },
+              "fg": {
+                "path": "/flower/3/3_shape_4.png"
+              },
+              "shape": "",
+              "width": 82.00,
+              "height": 45.50,
+              "offsetX": 8.30,
+              "offsetY": 50.00,
+              "margin": {
+                "top": 1.70,
+                "bottom": 1.70,
+                "end": 3.50,
+                "start": 3.50,
+                "tlr": 126.00,
+                "trr": 126.00,
+                "brr": 126.00,
+                "blr": 126.00
+              }
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "postImage": "/flower/4/mockup.png",
+          "bg": {
+            "color": "#0b1b3c",
+            "path": ""
+          },
+          "fg": {
+            "path": "/flower/4/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 77.00,
+              "height": 86.00,
+              "offsetX": 11.00,
+              "offsetY": 7.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 4.00,
+                "start": 4.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "postImage": "/flower/5/mockup.png",
+          "bg": {
+            "color": "#342625",
+            "path": ""
+          },
+          "fg": {
+            "path": "/flower/5/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": ""
+              },
+              "fg": {
+                "path": "/flower/5/2_shape_1.png"
+              },
+              "shape": "",
+              "width": 100.00,
+              "height": 100.00,
+              "offsetX": 0.00,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 45.50,
+                "end": 4.50,
+                "start": 4.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 5.40,
+              "offsetY": 30.50,
+              "width": 100,
+              "height": 50,
+              "path": "",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 6,
+          "postImage": "/flower/6/mockup.png",
+          "bg": {
+            "color": "#f3f0ec",
+            "path": "/flower/6/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/6/3_element_1.png"
+              },
+              "fg": {
+                "path": "/flower/6/3_element_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 80.00,
+              "offsetX": 8.00,
+              "offsetY": 10.00,
+              "margin": {
+                "top": 4.00,
+                "bottom": 4.00,
+                "end": 6.80,
+                "start": 6.80
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 7,
+          "postImage": "/flower/7/mockup.png",
+          "bg": {
+            "color": "#f3f0ec",
+            "path": "/flower/7/1_bg.png"
+          },
+          "fg": {
+            "path": "/flower/7/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/7/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/7/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 50.00,
+              "offsetX": 7.00,
+              "offsetY": 24.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.00,
+                "end": 2.80,
+                "start": 2.80
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/flower/8/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/flower/8/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/8/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/8/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 48.30,
+              "offsetX": 7.00,
+              "offsetY": 5.50,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.00,
+                "start": 1.00,
+                "tlr": 65.00,
+                "trr": 65.00,
+                "brr": 65.00,
+                "blr": 65.00
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 10,
+          "postImage": "/flower/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/flower/10/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/10/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/10/2_shadow_1.png"
+              },
+              "shape": "",
+              "width": 72.00,
+              "height": 44.50,
+              "offsetX": 13.50,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/10/3_shape_2.png"
+              },
+              "fg": {
+                "path": "/flower/10/2_shadow_2.png"
+              },
+              "shape": "",
+              "width": 72.00,
+              "height": 44.50,
+              "offsetX": 13.50,
+              "offsetY": 49.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ]
         }
       ]
     }
+
   ]
 }
