@@ -6303,7 +6303,154 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "categoryName": "Diwali",
+      "categoryId": "diwali_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/diwali/diwali.jpg",
+      "isPremium": 0,
+      "items":[
+        {
+          "index": 1,
+          "postImage": "/diwali/1/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/diwali/1/1_bg.png"
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/halloween/1/2_element_1.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/1/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/1/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 55.00,
+              "height": 29.00,
+              "offsetX": 12.50,
+              "offsetY": 3.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 4.50,
+                "start": 4.50
+              }
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/halloween/1/3_shape_3.png"
+              },
+              "fg": {
+                "path": "/halloween/1/3_shape_4.png"
+              },
+              "shape": "",
+              "width": 78.00,
+              "height": 40.00,
+              "offsetX": 1.00,
+              "offsetY": 29.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 5.50,
+                "start": 5.50
+              }
+            },{
+              "bg": {
+                "color": "",
+                "path": "/halloween/1/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/halloween/1/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 55.00,
+              "height": 29.00,
+              "offsetX": 4.50,
+              "offsetY": 66.00,
+              "margin": {
+                "top": 3.50,
+                "bottom": 3.50,
+                "end": 5.50,
+                "start": 4.50
+              }
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.40,
+              "offsetY": 24.00,
+              "width": 24,
+              "height": 24,
+              "path": "/halloween/1/2_element_2.png",
+              "angle": 0
+            }, {
+              "isLock": false,
+              "offsetX": 24.00,
+              "offsetY":49.00,
+              "width": 52,
+              "height": 52,
+              "path": "/halloween/1/4_element_1.png",
+              "angle": 0
+            }
+          ]
 
+        },
+        {
+          "index": 2,
+          "postImage": "/diwali/3/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/diwali/3/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/diwali/3/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/diwali/3/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 95.00,
+              "height": 53.00,
+              "offsetX": 2.50,
+              "offsetY": 2.20,
+              "margin": {
+                "top": 2.50,
+                "bottom": 2.50,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 0.00,
+              "offsetY":55.00,
+              "width": 46,
+              "height": 46,
+              "path": "/diwali/3/2_element.png",
+              "angle": 0
+            }
+          ]
+
+        }
+      ]
+    }
   ]
 }
