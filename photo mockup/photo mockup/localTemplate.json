@@ -7118,6 +7118,481 @@
           ]
         }
       ]
+    },
+    {
+      "categoryName": "Shopping",
+      "categoryId": "shopping_id",
+      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "postUrl": "/shopping/shopping.jpg",
+      "isPremium": 0,
+      "items": [
+        {
+          "index": 1,
+          "postImage": "/shopping/1/mockup.png",
+          "bg": {
+            "color": "#110628",
+            "path": ""
+          },
+          "fg": {
+            "path": "/shopping/1/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/1/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/1/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 68.00,
+              "height": 54.00,
+              "offsetX": 27.00,
+              "offsetY": 3.00,
+              "margin": {
+                "top": 19.00,
+                "bottom": 3.00,
+                "end": 4.50,
+                "start": 4.50
+              }
+
+            },
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/1/2_shape_3.png"
+              },
+              "fg": {
+                "path": "/shopping/1/2_shape_4.png"
+              },
+              "shape": "",
+              "width": 48.00,
+              "height": 38.00,
+              "offsetX": 4.00,
+              "offsetY": 59.00,
+              "margin": {
+                "top": 13.00,
+                "bottom": 3.00,
+                "end": 4.50,
+                "start": 4.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 5.00,
+              "offsetY": 11.50,
+              "width": 20,
+              "height": 20,
+              "path": "/shopping/1/3_element_1.png",
+              "angle": 0
+            }
+          ,{
+              "isLock": false,
+              "offsetX": 40.00,
+              "offsetY": 63.50,
+              "width":28,
+              "height": 28,
+              "path":"/shopping/1/3_element_2.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "postImage": "/shopping/2/mockup.png",
+          "bg": {
+            "color": "#b784e3",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/2/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/2/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 83.00,
+              "height": 94.00,
+              "offsetX": 8.50,
+              "offsetY": 0.00,
+              "margin": {
+                "top": 39.00,
+                "bottom": 2.00,
+                "end": 4.50,
+                "start": 4.50
+              }
+
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "postImage": "/shopping/3/mockup.png",
+          "bg": {
+            "color": "#01559d",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/3/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/3/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 72.00,
+              "height": 86.00,
+              "offsetX": 14.00,
+              "offsetY": 7.00,
+              "margin": {
+                "top": 0.60,
+                "bottom": 0.60,
+                "end": 1.00,
+                "start": 1.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 4.00,
+              "offsetY": 57.00,
+              "width": 40,
+              "height": 40,
+              "path": "/shopping/3/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 4,
+          "postImage": "/shopping/4/mockup.png",
+          "bg": {
+            "color": "#478173",
+            "path": ""
+          },
+          "fg": {
+            "path": "/shopping/4/3_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/4/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/4/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 45.00,
+              "offsetX": 6.00,
+              "offsetY": 7.00,
+              "margin": {
+                "top": 1.00,
+                "bottom": 1.00,
+                "end": 2.50,
+                "start": 2.50,
+                "tlr": 116.00,
+                "trr": 0.00,
+                "brr": 116.00,
+                "blr": 0.00
+              }
+
+            }
+          ]
+
+        },
+        {
+          "index": 5,
+          "postImage": "/shopping/5/mockup.png",
+          "bg": {
+            "color": "#113952",
+            "path": "/shopping/5/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/5/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/5/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 88.00,
+              "height": 54.50,
+              "offsetX": 6.00,
+              "offsetY": 6.00,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.70,
+                "start": 1.70,
+                "tlr": 22.00,
+                "trr": 22.00,
+                "brr": 22.00,
+                "blr": 22.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 5.00,
+              "offsetY": 52.00,
+              "width": 50,
+              "height": 50,
+              "path": "/shopping/5/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 6,
+          "postImage": "/shopping/6/mockup.png",
+          "bg": {
+            "color": "#253141",
+            "path": ""
+          },
+          "fg": {
+            "backLayer": true,
+            "path": "/shopping/6/2_element.png"
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/6/3_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/6/3_shape_2.png"
+              },
+              "shape": "",
+              "width": 86.00,
+              "height": 56.00,
+              "offsetX": 7.00,
+              "offsetY": 10.00,
+              "margin": {
+                "top": 0.20,
+                "bottom": 0.20,
+                "end": 1.00,
+                "start": 1.00
+              }
+
+            }
+          ]
+
+        },
+        {
+          "index": 7,
+          "postImage": "/shopping/7/mockup.png",
+          "bg": {
+            "color": "#f8e0d7",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/7/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/7/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 90.00,
+              "height": 53.00,
+              "offsetX": 5.00,
+              "offsetY": 22.00,
+              "margin": {
+                "top": 0.20,
+                "bottom": 0.20,
+                "end": 1.00,
+                "start": 1.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": true,
+              "offsetX": 3.00,
+              "offsetY": 1.00,
+              "width": 94,
+              "height": 98,
+              "path": "/shopping/7/3_element.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 8,
+          "postImage": "/shopping/8/Artboard mockup.png",
+          "bg": {
+            "color": "#b3443b",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/8/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/8/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 90.00,
+              "height": 58.00,
+              "offsetX": 5.00,
+              "offsetY": 3.00,
+              "margin": {
+                "top": 0.20,
+                "bottom": 0.20,
+                "end": 1.00,
+                "start": 1.00,
+                "tlr": 110.00,
+                "trr": 110.00,
+                "brr": 110.00,
+                "blr": 110.00
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 7.00,
+              "offsetY": 61.00,
+              "width": 39,
+              "height": 39,
+              "path": "/shopping/8/3_element.png",
+              "angle": 0
+            }
+          ]
+        },
+        {
+          "index": 9,
+          "postImage": "/shopping/9/mockup.png",
+          "bg": {
+            "color": "#bd3140",
+            "path": ""
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": ""
+              },
+              "fg": {
+                "path": "/shopping/9/2_shape.png"
+              },
+              "shape": "",
+              "width": 100.00,
+              "height": 100.00,
+              "offsetX": 0.00,
+              "offsetY":0.00,
+              "margin": {
+                "top": 30.00,
+                "bottom": 2.00,
+                "end": 5.50,
+                "start": 5.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 15.00,
+              "offsetY": 2.00,
+              "width": 70,
+              "height": 22,
+              "path": "/shopping/9/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        },
+        {
+          "index": 10,
+          "postImage": "/shopping/10/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/shopping/10/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/shopping/10/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/shopping/10/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 90.00,
+              "height": 54.50,
+              "offsetX": 5.00,
+              "offsetY": 3.00,
+              "margin": {
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 3.50,
+                "start": 3.50
+              }
+
+            }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 3.50,
+              "offsetY": 53.50,
+              "width": 46.5,
+              "height": 46.5,
+              "path": "/shopping/10/3_element.png",
+              "angle": 0
+            }
+          ]
+
+        }
+      ]
     }
 
   ]
