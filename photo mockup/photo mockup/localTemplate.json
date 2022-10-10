@@ -6755,7 +6755,7 @@
     {
       "categoryName": "Flower",
       "categoryId": "flower_id",
-      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "categoryImage": "/flower/icons_Flower.png",
       "postUrl": "/flower/flower.jpg",
       "isPremium": 0,
       "items": [
