@@ -5381,6 +5381,17 @@
               }
 
             }
+          ],
+          "stickerItems": [
+            {
+              "isLock": false,
+              "offsetX": 7.00,
+              "offsetY":75.00,
+              "width": 23,
+              "height": 23,
+              "path": "/food/10/3_element.png",
+              "angle": 0
+            }
           ]
         }
       ]
@@ -7066,8 +7077,8 @@
           "index": 9,
           "postImage": "/flower/9/mockup.png",
           "bg": {
-            "color": "#f3f0ec",
-            "path": ""
+            "color": "#d6c3b5",
+            "path": "/flower/9/1_bg.png"
           },
           "fg": {
             "path": ""
@@ -7082,15 +7093,15 @@
                 "path": "/flower/9/2_shape_2.png"
               },
               "shape": "",
-              "width": 77.00,
+              "width": 70.00,
               "height": 86.00,
-              "offsetX": 11.00,
+              "offsetX": 15.00,
               "offsetY": 7.00,
               "margin": {
-                "top": 2.00,
-                "bottom": 2.00,
-                "end": 4.00,
-                "start": 4.00
+                "top": 1.00,
+                "bottom": 1.00,
+                "end": 2.00,
+                "start": 2.00
               }
 
             }
