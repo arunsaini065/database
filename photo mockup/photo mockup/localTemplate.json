@@ -2552,7 +2552,7 @@
     {
       "categoryName": "Pets",
       "categoryId": "pets_id",
-      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "categoryImage": "/pets/icons_Pets.png",
       "postUrl": "/pets/pets.jpg",
       "isPremium": 0,
       "items":[
