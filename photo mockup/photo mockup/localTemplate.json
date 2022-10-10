@@ -5399,7 +5399,7 @@
     {
       "categoryName": "Retro",
       "categoryId": "retro_id",
-      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "categoryImage": "/retro/icons_Retro.png",
       "postUrl": "/retro/retro.jpg",
       "isPremium": 0,
       "items":[
