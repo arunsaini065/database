@@ -7063,6 +7063,44 @@
           ]
         },
         {
+          "index": 9,
+          "postImage": "/flower/9/mockup.png",
+          "bg": {
+            "color": "",
+            "path": "/flower/9/1_bg.png"
+          },
+          "fg": {
+            "path": ""
+          },
+          "imageItems": [
+            {
+              "bg": {
+                "color": "",
+                "path": "/flower/9/2_shape_1.png"
+              },
+              "fg": {
+                "path": "/flower/9/2_shape_2.png"
+              },
+              "shape": "",
+              "width": 85.00,
+              "height": 48.30,
+              "offsetX": 7.00,
+              "offsetY": 5.50,
+              "margin": {
+                "top": 0.50,
+                "bottom": 0.50,
+                "end": 1.00,
+                "start": 1.00,
+                "tlr": 65.00,
+                "trr": 65.00,
+                "brr": 65.00,
+                "blr": 65.00
+              }
+
+            }
+          ]
+        },
+        {
           "index": 10,
           "postImage": "/flower/10/mockup.png",
           "bg": {
