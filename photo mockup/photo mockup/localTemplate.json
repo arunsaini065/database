@@ -5003,7 +5003,7 @@
     {
       "categoryName": "Food",
       "categoryId": "food_id",
-      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "categoryImage": "/food/icons_Food.png",
       "postUrl": "/food/food.jpg",
       "isPremium": 0,
       "items":[
