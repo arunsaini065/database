@@ -3189,7 +3189,7 @@
     {
       "categoryName": "Dark",
       "categoryId": "dark_id",
-      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "categoryImage": "/dark/icons_Dark.png",
       "postUrl": "/dark/dark.jpg",
       "isPremium": 0,
       "items":[
