@@ -7066,8 +7066,8 @@
           "index": 9,
           "postImage": "/flower/9/mockup.png",
           "bg": {
-            "color": "",
-            "path": "/flower/9/1_bg.png"
+            "color": "#f3f0ec",
+            "path": ""
           },
           "fg": {
             "path": ""
@@ -7082,19 +7082,15 @@
                 "path": "/flower/9/2_shape_2.png"
               },
               "shape": "",
-              "width": 85.00,
-              "height": 48.30,
-              "offsetX": 7.00,
-              "offsetY": 5.50,
+              "width": 77.00,
+              "height": 86.00,
+              "offsetX": 11.00,
+              "offsetY": 7.00,
               "margin": {
-                "top": 0.50,
-                "bottom": 0.50,
-                "end": 1.00,
-                "start": 1.00,
-                "tlr": 65.00,
-                "trr": 65.00,
-                "brr": 65.00,
-                "blr": 65.00
+                "top": 2.00,
+                "bottom": 2.00,
+                "end": 4.00,
+                "start": 4.00
               }
 
             }
