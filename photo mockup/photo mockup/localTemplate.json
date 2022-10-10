@@ -3657,7 +3657,7 @@
     {
       "categoryName": "Neon",
       "categoryId": "neon_id",
-      "categoryImage": "/icons_Neon/icons_Neon.png",
+      "categoryImage": "/neon/icons_Neon.png",
       "postUrl": "/neon/neon.jpg",
       "isPremium": 0,
       "items":[
