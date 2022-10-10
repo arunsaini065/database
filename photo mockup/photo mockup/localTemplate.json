@@ -3655,9 +3655,9 @@
       ]
     },
     {
-      "categoryName": "Neons",
-      "categoryId": "neons_id",
-      "categoryImage": "/love/icon tmp_Wedding_fll.png",
+      "categoryName": "Neon",
+      "categoryId": "neon_id",
+      "categoryImage": "/icons_Neon/icons_Neon.png",
       "postUrl": "/neon/neon.jpg",
       "isPremium": 0,
       "items":[
