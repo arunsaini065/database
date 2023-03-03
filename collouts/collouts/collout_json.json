@@ -1,0 +1,24 @@
+ {
+                "datatype": "callout",
+                "name": "callout",
+                "Id": "category_Soft_Glow",
+                "image": "/bg/softglow/soft_glow_1.jpg"
+                "post": [
+                    {
+                        "title": "Christmas Samll",
+                        "img_url": "/stkpost/Christmassmal.png"
+                    }
+                ],
+                "callouts": [
+                    {
+                        "title": "Indain Cinema",
+                        "thumbnail": "/sticker/IndianCinema/bolly.png",
+                        "url_layer_1": "/bg/softglow/soft_glow_1.jpg",
+                        "url_layer_2": "/bg/softglow/soft_glow_1.jpg",
+						"font_size":"12",
+						"font_color":"#ffffff",
+						"font_path":"",
+						"isPremium": 0
+                    }
+               ]
+ }
