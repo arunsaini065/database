@@ -12,9 +12,36 @@
                 "callouts": [
                     {
                         "title": "Indain Cinema",
+                        "thumbnail": "/database/tree/main/collouts/collouts/blue.png",
+                        "url_layer_1": "/database/tree/main/collouts/collouts/blue.png",
+                        "url_layer_2": "/database/tree/main/collouts/collouts/blue_1.png",
+						"font_size":"12",
+						"font_color":"#ffffff",
+						"font_path":"",
+						"isPremium": 0
+                    },{
+                        "title": "Indain Cinema",
+                        "thumbnail": "/database/tree/main/collouts/collouts/blue.png",
+                        "url_layer_1": "/database/tree/main/collouts/collouts/blue.png",
+                        "url_layer_2": "/database/tree/main/collouts/collouts/blue_1.png",
+						"font_size":"12",
+						"font_color":"#ffffff",
+						"font_path":"",
+						"isPremium": 0
+                    },{
+                        "title": "Indain Cinema",
                         "thumbnail": "/sticker/IndianCinema/bolly.png",
-                        "url_layer_1": "/bg/softglow/soft_glow_1.jpg",
-                        "url_layer_2": "/bg/softglow/soft_glow_1.jpg",
+                        "url_layer_1": "/database/tree/main/collouts/collouts/olive.png",
+                        "url_layer_2": "/database/tree/main/collouts/collouts/olive_1.png",
+						"font_size":"12",
+						"font_color":"#ffffff",
+						"font_path":"",
+						"isPremium": 0
+                    },{
+                        "title": "Indain Cinema",
+                        "thumbnail": "/database/tree/main/collouts/collouts/olive.pn",
+                         "url_layer_1": "/database/tree/main/collouts/collouts/olive.png",
+                        "url_layer_2": "/database/tree/main/collouts/collouts/olive_1.png",
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"",
