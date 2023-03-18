@@ -17,7 +17,7 @@
                         "url_layer_2": "/database/main/collouts/collouts/blue_1.png",
 						"font_size":"12",
 						"font_color":"#ffffff",
-						"font_path":"",
+						"font_path":"/database/main/birthday/3/Poppins-SemiBold.ttf",
 						"isPremium": 0
                     },{
                         "title": "Indain Cinema",
@@ -26,7 +26,7 @@
                         "url_layer_2": "/database/main/collouts/collouts/blue_1.png",
 						"font_size":"12",
 						"font_color":"#ffffff",
-						"font_path":"",
+						"font_path":"/database/main/birthday/3/Poppins-SemiBold.ttf",
 						"isPremium": 0
                     },{
                         "title": "Indain Cinema",
@@ -35,7 +35,7 @@
                         "url_layer_2": "/database/main/collouts/collouts/olive_1.png",
 						"font_size":"12",
 						"font_color":"#ffffff",
-						"font_path":"",
+						"font_path":"/database/main/birthday/3/Poppins-SemiBold.ttf",
 						"isPremium": 0
                     },{
                         "title": "Indain Cinema",
@@ -44,7 +44,7 @@
                         "url_layer_2": "/database/main/collouts/collouts/olive_1.png",
 						"font_size":"12",
 						"font_color":"#ffffff",
-						"font_path":"",
+						"font_path":"/database/main/birthday/3/Poppins-SemiBold.ttf",
 						"isPremium": 0
                     }
                ]
