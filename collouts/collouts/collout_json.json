@@ -16,13 +16,13 @@
                         "top_layer": "/database/main/collouts/collouts/blue.png",
                         "back_layers":[
 						{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						}
 						],
 						"text_off_set_x":1,
@@ -37,13 +37,13 @@
                         "top_layer": "/database/main/collouts/collouts/blue.png",
                         "back_layers": [ 
 						{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"/database/main/collouts/collouts/blue_1.png"
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						 "/database/main/collouts/collouts/blue_1.png"
 						}
 						],
 						"text_off_set_x":1,
@@ -58,13 +58,13 @@
                         "top_layer": "/database/main/collouts/collouts/olive.png",
                         "back_layers":[ 
 						{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						}
 						],
 						"text_off_set_x":1,
@@ -79,13 +79,13 @@
                          "top_layer": "/database/main/collouts/collouts/olive.png",
                         "back_layers": [
 						{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"/database/main/collouts/collouts/olive_1.png"
 						}
 						],
 						"text_off_set_x":1,
