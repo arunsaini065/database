@@ -13,8 +13,20 @@
                     {
                         "title": "Indain\nCinema",
                         "thumbnail": "/database/main/collouts/collouts/blue.png",
-                        "url_layer_1": "/database/main/collouts/collouts/blue.png",
-                        "url_layer_2": "/database/main/collouts/collouts/blue_1.png",
+                        "top_layer": "/database/main/collouts/collouts/blue.png",
+                        "back_layers":[
+						{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						},{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						},{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						},{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						}
+						],
+						"text_off_set_x":1,
+						"text_off_set_y":1,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
@@ -22,8 +34,20 @@
                     },{
                         "title": "Indain\nCinema",
                         "thumbnail": "/database/main/collouts/collouts/blue.png",
-                        "url_layer_1": "/database/main/collouts/collouts/blue.png",
-                        "url_layer_2": "/database/main/collouts/collouts/blue_1.png",
+                        "top_layer": "/database/main/collouts/collouts/blue.png",
+                        "back_layers": [ 
+						{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						},{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						},{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						},{
+						"path": "/database/main/collouts/collouts/blue_1.png"
+						}
+						],
+						"text_off_set_x":1,
+						"text_off_set_y":1,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
@@ -31,8 +55,20 @@
                     },{
                         "title": "Indain\nCinema",
                         "thumbnail": "/database/main/collouts/collouts/olive.png",
-                        "url_layer_1": "/database/main/collouts/collouts/olive.png",
-                        "url_layer_2": "/database/main/collouts/collouts/olive_1.png",
+                        "top_layer": "/database/main/collouts/collouts/olive.png",
+                        "back_layers":[ 
+						{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						},{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						},{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						},{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						}
+						],
+						"text_off_set_x":1,
+						"text_off_set_y":1,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
@@ -40,8 +76,20 @@
                     },{
                         "title": "Indain Cinema",
                         "thumbnail": "/database/main/collouts/collouts/olive.png",
-                         "url_layer_1": "/database/main/collouts/collouts/olive.png",
-                        "url_layer_2": "/database/main/collouts/collouts/olive_1.png",
+                         "top_layer": "/database/main/collouts/collouts/olive.png",
+                        "back_layers": [
+						{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						},{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						},{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						},{
+						"path":"/database/main/collouts/collouts/olive_1.png"
+						}
+						],
+						"text_off_set_x":1,
+						"text_off_set_y":1,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
