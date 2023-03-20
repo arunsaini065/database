@@ -16,13 +16,21 @@
                         "top_layer": "/database/main/collouts/collouts/blue.png",
                         "back_layers":[
 						{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",\
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						}
 						],
 						"text_off_set_x":-10,
@@ -37,13 +45,21 @@
                         "top_layer": "/database/main/collouts/collouts/blue.png",
                         "back_layers": [ 
 						{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path": "/database/main/collouts/collouts/blue_1.png"
+						"path": "/database/main/collouts/collouts/blue_1.png",
+							"thumbnail":"",
+							"font_color":""
 						}
 						],
 						"text_off_set_x":-10,
@@ -58,13 +74,21 @@
                         "top_layer": "/database/main/collouts/collouts/olive.png",
                         "back_layers":[ 
 						{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						}
 						],
 						"text_off_set_x":-10,
@@ -79,13 +103,21 @@
                          "top_layer": "/database/main/collouts/collouts/olive.png",
                         "back_layers": [
 						{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						},{
-						"path":"/database/main/collouts/collouts/olive_1.png"
+						"path":"/database/main/collouts/collouts/olive_1.png",
+							"thumbnail":"",
+							"font_color":""
 						}
 						],
 						"text_off_set_x":-10,
