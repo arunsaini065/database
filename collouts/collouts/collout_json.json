@@ -25,8 +25,8 @@
 						"path": "/database/main/collouts/collouts/blue_1.png"
 						}
 						],
-						"text_off_set_x":1,
-						"text_off_set_y":1,
+						"text_off_set_x":-10,
+						"text_off_set_y":-10,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
@@ -46,8 +46,8 @@
 						"path": "/database/main/collouts/collouts/blue_1.png"
 						}
 						],
-						"text_off_set_x":1,
-						"text_off_set_y":1,
+						"text_off_set_x":-10,
+						"text_off_set_y":-10,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
@@ -67,8 +67,8 @@
 						"path":"/database/main/collouts/collouts/olive_1.png"
 						}
 						],
-						"text_off_set_x":1,
-						"text_off_set_y":1,
+						"text_off_set_x":-10,
+						"text_off_set_y":-10,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
@@ -88,8 +88,8 @@
 						"path":"/database/main/collouts/collouts/olive_1.png"
 						}
 						],
-						"text_off_set_x":1,
-						"text_off_set_y":1,
+						"text_off_set_x":-10,
+						"text_off_set_y":-10,
 						"font_size":"12",
 						"font_color":"#ffffff",
 						"font_path":"/database/main/collouts/collouts/Dakiens Italic.otf",
