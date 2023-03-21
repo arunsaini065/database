@@ -38,7 +38,7 @@
                     },{
                         "title": "Indain\nCinema",
                         "thumbnail": "/database/main/collouts/collouts/blue.png",
-                        "top_layer": "/database/main/collouts/collouts/blue.png",
+                        "top_layer": "/database/main/collouts/collouts/blue_1.png",
                         "back_layers": [ 
 						{
 						"path": "/database/main/collouts/collouts/blue_1.png",
