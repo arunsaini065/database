@@ -17,16 +17,16 @@
                         "back_layers":[
 						{
 						"path": "/database/main/collouts/collouts/blue.png",
-							"font_color":""
+							"font_color":"#fcba03"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
-							"font_color":""
+							"font_color":"#94fc03"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
-							"font_color":""
+							"font_color":"#03fc88"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
-							"font_color":""
+							"font_color":"#fcba03"
 						}
 						],
 						"text_off_set_x":-10,
@@ -42,10 +42,10 @@
                         "back_layers": [ 
 						{
 						"path": "/database/main/collouts/collouts/blue_1.png",
-							"font_color":"/database/main/collouts/collouts/blue.png"
+							"font_color":"#fcba03"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
-							"font_color":""
+							"font_color":"#03fc88"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
 							"font_color":""
