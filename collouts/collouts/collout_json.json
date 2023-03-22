@@ -17,15 +17,19 @@
                         "back_layers":[
 						{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue.png",
 							"font_color":"#fcba03"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue.png",
 							"font_color":"#94fc03"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue.png",
 							"font_color":"#03fc88"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue.png",
 							"font_color":"#fcba03"
 						}
 						],
@@ -42,15 +46,20 @@
                         "back_layers": [ 
 						{
 						"path": "/database/main/collouts/collouts/blue_1.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
+
 							"font_color":"#fcba03"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":"#03fc88"
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path": "/database/main/collouts/collouts/blue.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						}
 						],
@@ -67,15 +76,19 @@
                         "back_layers":[ 
 						{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						}
 						],
@@ -92,15 +105,19 @@
                         "back_layers": [
 						{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						},{
 						"path":"/database/main/collouts/collouts/olive.png",
+						"thumbnail": "/database/main/collouts/collouts/blue_1.png",
 							"font_color":""
 						}
 						],
