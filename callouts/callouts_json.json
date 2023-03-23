@@ -12,47 +12,47 @@
   "callouts": [
     {
       "title": "Ok",
-      "thumbnail": "callouts/ok/ok.png",
-      "top_layer": "callouts/ok/ok_1.png",
+      "thumbnail": "/callouts/ok/ok.png",
+      "top_layer": "/callouts/ok/ok_1.png",
       "back_layers": [
         {
-          "path": "callouts/ok/ok_3.png",
-          "thumbnail": "callouts/ok/ok_4.png",
+          "path": "/callouts/ok/ok_3.png",
+          "thumbnail": "/callouts/ok/ok_4.png",
           "font_color": "#F59F01"
         },
         {
-			"path": "callouts/ok/ok_5.png",
+			"path": "/callouts/ok/ok_5.png",
 			"thumbnail": "callouts/ok/ok_6.png",
 			"font_color": "#00B157"
 
         },
         {
-			"path": "callouts/ok/ok_7.png",
-			"thumbnail": "callouts/ok/ok_8.png",
+			"path": "/callouts/ok/ok_7.png",
+			"thumbnail": "/callouts/ok/ok_8.png",
 			"font_color": "#D1D121"
 
         },
         {
-			"path": "callouts/ok/ok_9.png",
-			"thumbnail": "callouts/ok/ok_10.png",
+			"path": "/callouts/ok/ok_9.png",
+			"thumbnail": "/callouts/ok/ok_10.png",
 			"font_color": "#EC6F09"
 
         },
         {
-			"path": "callouts/ok/ok_11.png",
-			"thumbnail": "callouts/ok/ok_12.png",
+			"path": "/callouts/ok/ok_11.png",
+			"thumbnail": "/callouts/ok/ok_12.png",
 			"font_color": "#CD2A8F"
 
         },
         {
-			"path": "callouts/ok/ok_13.png",
-			"thumbnail": "callouts/ok/ok_14.png",
+			"path": "/callouts/ok/ok_13.png",
+			"thumbnail": "/callouts/ok/ok_14.png",
 			"font_color": "#FFEA00"
 
         },
         {
-			"path": "callouts/ok/ok_15.png",
-			"thumbnail": "callouts/ok/ok_2.png",
+			"path": "/callouts/ok/ok_15.png",
+			"thumbnail": "/callouts/ok/ok_2.png",
 			"font_color": "#FB3B31"
 
         }
@@ -61,7 +61,7 @@
       "text_off_set_y": 0,
       "font_size": "12",
       "font_color": "#ffffff",
-      "font_path": "callouts/Dakiens Italic.otf",
+      "font_path": "/callouts/Dakiens Italic.otf",
       "isPremium": 0
     }
   ]
