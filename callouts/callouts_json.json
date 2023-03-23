@@ -22,7 +22,7 @@
         },
         {
 			"path": "/callouts/ok/ok_5.png",
-			"thumbnail": "callouts/ok/ok_6.png",
+			"thumbnail": "/callouts/ok/ok_6.png",
 			"font_color": "#00B157"
 
         },
