@@ -70,7 +70,7 @@
       "top_layer": "/callouts/smile/smile_1.png",
       "back_layers": [
         {
-          "path": "/callouts/Smile/smile_3.png",
+          "path": "/callouts/smile/smile_3.png",
           "thumbnail": "/callouts/smile/smile_4.png",
           "font_color": "#997300"
         },
