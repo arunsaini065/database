@@ -14,6 +14,8 @@
       "title": "Ok",
       "thumbnail": "/callouts/ok/ok.png",
       "top_layer": "/callouts/ok/ok_1.png",
+      "transX": 0,
+      "transY": 0,
       "back_layers": [
         {
           "path": "/callouts/ok/ok_3.png",
@@ -68,6 +70,8 @@
       "title": "Smile",
       "thumbnail": "/callouts/smile/smile.png",
       "top_layer": "/callouts/smile/smile_1.png",
+      "transX": 0,
+      "transY": 0,
       "back_layers": [
         {
           "path": "/callouts/smile/smile_3.png",
