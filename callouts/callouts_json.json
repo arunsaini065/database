@@ -229,7 +229,7 @@
         }
       ],
       "text_off_set_x": 0,
-      "text_off_set_y": 0,
+      "text_off_set_y": -7,
       "font_size": "22",
       "font_color": "#ffffff",
       "font_path": "/callouts/cool/cool_2.ttf",
@@ -285,7 +285,7 @@
         }
       ],
       "text_off_set_x": 0,
-      "text_off_set_y": 0,
+      "text_off_set_y": -9,
       "font_size": "22",
       "font_color": "#ffffff",
       "font_path": "/callouts/hello/hello_2.ttf",
