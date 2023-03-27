@@ -15,8 +15,8 @@
       "thumbnail": "/callouts/ok/ok.png",
       "top_layer": "/callouts/ok/ok_1.png",
       "index": 5,
-      "transX": 0,
-      "transY": 0,
+      "transX": 3.0,
+      "transY": 0.8,
       "back_layers": [
         {
           "path": "/callouts/ok/ok_3.png",
@@ -62,17 +62,17 @@
       ],
       "text_off_set_x": 0,
       "text_off_set_y": 0,
-      "font_size": "12",
+      "font_size": "24",
       "font_color": "#ffffff",
       "font_path": "/callouts/ok/ok_2.otf",
       "isPremium": 0
     },
-    {
+      {
       "title": "Smile",
       "thumbnail": "/callouts/smile/smile.png",
       "top_layer": "/callouts/smile/smile_1.png",
-      "transX": 0,
-      "transY": 0,
+      "transX": 0.5,
+      "transY": -4,
       "back_layers": [
         {
           "path": "/callouts/smile/smile_3.png",
@@ -118,7 +118,7 @@
       ],
       "text_off_set_x": 0,
       "text_off_set_y": 0,
-      "font_size": "12",
+      "font_size": "22",
       "font_color": "#ffffff",
       "font_path": "/callouts/smile/smile_2.otf",
       "isPremium": 0
@@ -127,8 +127,8 @@
       "title": "Nice",
       "thumbnail": "/callouts/nice/nice.png",
       "top_layer": "/callouts/nice/nice_1.png",
-      "transX": 0,
-      "transY": 0,
+      "transX":  3.0,
+      "transY": 0.8,
       "back_layers": [
         {
           "path": "/callouts/nice/nice_3.png",
@@ -174,7 +174,7 @@
       ],
       "text_off_set_x": 0,
       "text_off_set_y": 0,
-      "font_size": "12",
+      "font_size": "22",
       "font_color": "#ffffff",
       "font_path": "/callouts/nice/nice_2.ttf",
       "isPremium": 0
@@ -230,7 +230,7 @@
       ],
       "text_off_set_x": 0,
       "text_off_set_y": 0,
-      "font_size": "12",
+      "font_size": "22",
       "font_color": "#ffffff",
       "font_path": "/callouts/cool/cool_2.ttf",
       "isPremium": 0
@@ -239,8 +239,8 @@
       "title": "Hello",
       "thumbnail": "/callouts/hello/hello.png",
       "top_layer": "/callouts/hello/hello_1.png",
-      "transX": 0,
-      "transY": 0,
+      "transX": -3.0,
+      "transY": -4,
       "back_layers": [
         {
           "path": "/callouts/hello/hello_3.png",
@@ -286,7 +286,7 @@
       ],
       "text_off_set_x": 0,
       "text_off_set_y": 0,
-      "font_size": "12",
+      "font_size": "22",
       "font_color": "#ffffff",
       "font_path": "/callouts/hello/hello_2.ttf",
       "isPremium": 0
