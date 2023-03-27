@@ -362,6 +362,57 @@
       "font_color": "#107058",
       "font_path": "/callouts/great/great_2.TTF",
       "isPremium": 0
+    },
+    {
+      "title": "Amazing",
+      "thumbnail": "/callouts/amazing/amazing.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 0,
+      "back_layers": [
+        {
+          "path": "/callouts/amazing/amazing_3.png",
+          "thumbnail": "/callouts/amazing/amazing_4.png",
+          "font_color": "#294B7D"
+        },
+        {
+          "path": "/callouts/amazing/amazing_5.png",
+          "thumbnail": "/callouts/amazing/amazing_6.png",
+          "font_color": "#294B7D"
+        },
+        {
+          "path": "/callouts/amazing/amazing_7.png",
+          "thumbnail": "/callouts/amazing/amazing_8.png",
+          "font_color": "#294B7D"
+        },
+        {
+          "path": "/callouts/amazing/amazing_9.png",
+          "thumbnail": "/callouts/amazing/amazing_10.png",
+          "font_color": "#294B7D"
+        },
+        {
+          "path": "/callouts/amazing/amazing_11.png",
+          "thumbnail": "/callouts/amazing/amazing_12.png",
+          "font_color": "#294B7D"
+        },
+        {
+          "path": "/callouts/amazing/amazing_13.png",
+          "thumbnail": "/callouts/amazing/amazing_14.png",
+          "font_color": "#294B7D"
+        },
+        {
+          "path": "/callouts/amazing/amazing_15.png",
+          "thumbnail": "/callouts/amazing/amazing_16.png",
+          "font_color": "#294B7D"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 3,
+      "font_size": "21",
+      "font_color": "#294B7D",
+      "font_path": "/callouts/amazing/amazing_2.TTF",
+      "isPremium": 0
     }
   ]
 }
