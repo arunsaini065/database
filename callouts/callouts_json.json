@@ -21,27 +21,27 @@
         {
           "path": "/callouts/ok/ok_3.png",
           "thumbnail": "/callouts/ok/ok_4.png",
-          "font_color": "#997300"
+          "font_color": "#967100"
         },
         {
           "path": "/callouts/ok/ok_5.png",
           "thumbnail": "/callouts/ok/ok_6.png",
-          "font_color": "#997300"
+          "font_color": "#ffffff"
         },
         {
           "path": "/callouts/ok/ok_7.png",
           "thumbnail": "/callouts/ok/ok_8.png",
-          "font_color": "#997300"
+          "font_color": "#967100"
         },
         {
           "path": "/callouts/ok/ok_9.png",
           "thumbnail": "/callouts/ok/ok_10.png",
-          "font_color": "#997300"
+          "font_color": "#ffffff"
         },
         {
           "path": "/callouts/ok/ok_11.png",
           "thumbnail": "/callouts/ok/ok_12.png",
-          "font_color": "#997300"
+          "font_color": "#ffffff"
         },
         {
           "path": "/callouts/ok/ok_13.png",
@@ -51,7 +51,7 @@
         {
           "path": "/callouts/ok/ok_15.png",
           "thumbnail": "/callouts/ok/ok_16.png",
-          "font_color": "#997300"
+          "font_color": "#ffffff"
         }
       ],
       "text_off_set_x": 0,
