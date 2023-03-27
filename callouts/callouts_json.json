@@ -342,8 +342,8 @@
         },
         {
           "path": "/callouts/great/great_11.png",
-          "thumbnail": "/107058/great/great_12.png",
-          "font_color": "#ffffff"
+          "thumbnail": "/callouts/great/great_12.png",
+          "font_color": "#107058"
         },
         {
           "path": "/callouts/great/great_13.png",
