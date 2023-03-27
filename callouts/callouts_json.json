@@ -121,6 +121,61 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/smile/smile_2.otf",
       "isPremium": 0
+    },{
+      "title": "Nice",
+      "thumbnail": "/callouts/nice/nice.png",
+      "top_layer": "/callouts/nice/nice_1.png",
+      "transX": 0,
+      "transY": 0,
+      "back_layers": [
+        {
+          "path": "/callouts/nice/nice_3.png",
+          "thumbnail": "/callouts/nice/nice_4.png",
+          "font_color": "#997300"
+        },
+        {
+          "path": "/callouts/nice/nice_5.png",
+          "thumbnail": "/callouts/nice/nice_6.png",
+          "font_color": "#997300"
+
+        },
+        {
+          "path": "/callouts/nice/nice_7.png",
+          "thumbnail": "/callouts/nice/nice_8.png",
+          "font_color": "#997300"
+
+        },
+        {
+          "path": "/callouts/nice/nice_9.png",
+          "thumbnail": "/callouts/nice/nice_10.png",
+          "font_color": "#997300"
+
+        },
+        {
+          "path": "/callouts/nice/nice_11.png",
+          "thumbnail": "/callouts/nice/nice_12.png",
+          "font_color": "#997300"
+
+        },
+        {
+          "path": "/callouts/nice/nice_13.png",
+          "thumbnail": "/callouts/nice/nice_14.png",
+          "font_color": "#997300"
+
+        },
+        {
+          "path": "/callouts/nice/nice_15.png",
+          "thumbnail": "/callouts/nice/nice_16.png",
+          "font_color": "#997300"
+
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/nice/nice_2.otf",
+      "isPremium": 0
     }
   ]
 }
