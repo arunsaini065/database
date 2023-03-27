@@ -305,8 +305,8 @@
         }
       ],
       "text_off_set_x": 0,
-      "text_off_set_y": -9,
-      "font_size": "22",
+      "text_off_set_y": 0,
+      "font_size": "16",
       "font_color": "#ffffff",
       "font_path": "/callouts/hellow/hellow_2.ttf",
       "isPremium": 0
