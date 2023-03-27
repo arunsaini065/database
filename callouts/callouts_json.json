@@ -264,7 +264,7 @@
     {
       "title": "Hellow",
       "thumbnail": "/callouts/hellow/hellow.png",
-      "top_layer": "/callouts/hellow/hellow_1.png",
+      "top_layer": "",
       "transX": -3.0,
       "transY": -4,
       "back_layers": [
