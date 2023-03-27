@@ -260,6 +260,56 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/hello/hello_2.ttf",
       "isPremium": 0
+    },
+    {
+      "title": "Hellow",
+      "thumbnail": "/callouts/hellow/hellow.png",
+      "top_layer": "/callouts/hellow/hellow_1.png",
+      "transX": -3.0,
+      "transY": -4,
+      "back_layers": [
+        {
+          "path": "/callouts/hellow/hellow_3.png",
+          "thumbnail": "/callouts/hellow/hellow_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hellow/hellow_5.png",
+          "thumbnail": "/callouts/hellow/hellow_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hellow/hellow_7.png",
+          "thumbnail": "/callouts/hellow/hellow_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hellow/hellow_9.png",
+          "thumbnail": "/callouts/hellow/hellow_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hellow/hellow_11.png",
+          "thumbnail": "/callouts/hellow/hellow_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hellow/hellow_13.png",
+          "thumbnail": "/callouts/hellow/hellow_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hellow/hellow_15.png",
+          "thumbnail": "/callouts/hellow/hellow_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": -9,
+      "font_size": "22",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/hellow/hellow_2.ttf",
+      "isPremium": 0
     }
   ]
 }
