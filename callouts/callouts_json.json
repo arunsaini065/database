@@ -356,8 +356,8 @@
           "font_color": "#ffffff"
         }
       ],
-      "text_off_set_x": 6,
-      "text_off_set_y": 0,
+      "text_off_set_x": 2,
+      "text_off_set_y": 5,
       "font_size": "20",
       "font_color": "#ffffff",
       "font_path": "/callouts/great/great_2.TTF",
