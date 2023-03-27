@@ -311,6 +311,57 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/hellow/hellow_2.ttf",
       "isPremium": 0
+    },
+    {
+      "title": "Great",
+      "thumbnail": "/callouts/great/great.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 6,
+      "back_layers": [
+        {
+          "path": "/callouts/great/great_3.png",
+          "thumbnail": "/callouts/great/great_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/great/great_5.png",
+          "thumbnail": "/callouts/great/great_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/great/great_7.png",
+          "thumbnail": "/callouts/great/great_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/great/great_9.png",
+          "thumbnail": "/callouts/great/great_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/great/great_11.png",
+          "thumbnail": "/callouts/great/great_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/great/great_13.png",
+          "thumbnail": "/callouts/great/great_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/great/great_15.png",
+          "thumbnail": "/callouts/great/great_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 8,
+      "text_off_set_y": 0,
+      "font_size": "10",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/great/great_2.TTF",
+      "isPremium": 0
     }
   ]
 }
