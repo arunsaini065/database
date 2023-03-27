@@ -313,7 +313,7 @@
       "isPremium": 0
     },
     {
-      "title": "Great",
+      "title": "Great!!",
       "thumbnail": "/callouts/great/great.png",
       "top_layer": "",
       "transX": 0,
@@ -356,7 +356,7 @@
           "font_color": "#ffffff"
         }
       ],
-      "text_off_set_x": 1,
+      "text_off_set_x": 0,
       "text_off_set_y": 3,
       "font_size": "21",
       "font_color": "#107058",
