@@ -824,45 +824,45 @@
     },
     {
       "title": "Smile",
-      "thumbnail": "/callouts/smile/smile.png",
+      "thumbnail": "/callouts/smilee/smilee.png",
       "top_layer": "",
       "transX": 0,
       "transY": 0,
       "index": 2,
       "back_layers": [
         {
-          "path": "/callouts/smile/smile_3.png",
-          "thumbnail": "/callouts/smile/smile_4.png",
+          "path": "/callouts/smilee/smilee_3.png",
+          "thumbnail": "/callouts/smilee/smilee_4.png",
           "font_color": "#ffffff"
         },
         {
-          "path": "/callouts/smile/smile_5.png",
-          "thumbnail": "/callouts/smile/smile_6.png",
+          "path": "/callouts/smilee/smilee_5.png",
+          "thumbnail": "/callouts/smilee/smilee_6.png",
           "font_color": "#ffffff"
         },
         {
-          "path": "/callouts/smile/smile_7.png",
-          "thumbnail": "/callouts/smile/smile_8.png",
+          "path": "/callouts/smilee/smilee_7.png",
+          "thumbnail": "/callouts/smilee/smilee_8.png",
           "font_color": "#ffffff"
         },
         {
-          "path": "/callouts/smile/smile_9.png",
-          "thumbnail": "/callouts/smile/smile_10.png",
+          "path": "/callouts/smilee/smilee_9.png",
+          "thumbnail": "/callouts/smilee/smilee_10.png",
           "font_color": "#ffffff"
         },
         {
-          "path": "/callouts/smile/smile_11.png",
-          "thumbnail": "/callouts/smile/smile_12.png",
+          "path": "/callouts/smilee/smilee_11.png",
+          "thumbnail": "/callouts/smilee/smilee_12.png",
           "font_color": "#ffffff"
         },
         {
-          "path": "/callouts/smile/smile_13.png",
-          "thumbnail": "/callouts/smile/smile_14.png",
+          "path": "/callouts/smilee/smilee_13.png",
+          "thumbnail": "/callouts/smilee/smilee_14.png",
           "font_color": "#ffffff"
         },
         {
-          "path": "/callouts/smile/smile_15.png",
-          "thumbnail": "/callouts/smile/smile_16.png",
+          "path": "/callouts/smilee/smilee_15.png",
+          "thumbnail": "/callouts/smilee/smilee_16.png",
           "font_color": "#ffffff"
         }
       ],
@@ -870,7 +870,7 @@
       "text_off_set_y": 0,
       "font_size": "12",
       "font_color": "#ffffff",
-      "font_path": "/callouts/smile/smile_2.ttf",
+      "font_path": "/callouts/smilee/smilee_2.ttf",
       "isPremium": 0
     },
     {
