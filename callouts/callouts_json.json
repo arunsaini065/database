@@ -468,7 +468,7 @@
     {
       "title": "Please",
       "thumbnail": "/callouts/please/please.png",
-      "top_layer": "",
+      "top_layer": "rr",
       "transX": 0,
       "transY": 0,
       "index": 2,
