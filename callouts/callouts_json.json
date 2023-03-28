@@ -510,8 +510,8 @@
         }
       ],
       "text_off_set_x": 0,
-      "text_off_set_y": -6,
-      "font_size": "16",
+      "text_off_set_y": -5,
+      "font_size": "17",
       "font_color": "#ffffff",
       "font_path": "/callouts/please/please_2.otf",
       "isPremium": 0
