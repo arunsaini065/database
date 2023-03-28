@@ -515,6 +515,57 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/please/please_2.otf",
       "isPremium": 0
+    },
+    {
+      "title": "Thanks",
+      "thumbnail": "/callouts/thanks/thanks.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/thanks/thanks_3.png",
+          "thumbnail": "/callouts/thanks/thanks_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/thanks/thanks_5.png",
+          "thumbnail": "/callouts/thanks/thanks_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/thanks/thanks_7.png",
+          "thumbnail": "/callouts/thanks/thanks_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/thanks/thanks_9.png",
+          "thumbnail": "/callouts/thanks/thanks_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/thanks/thanks_11.png",
+          "thumbnail": "/callouts/thanks/thanks_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/thanks/thanks_13.png",
+          "thumbnail": "/callouts/thanks/thanks_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/thanks/thanks_15.png",
+          "thumbnail": "/callouts/thanks/thanks_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/thanks/thanks_2.otf",
+      "isPremium": 0
     }
   ]
 }
