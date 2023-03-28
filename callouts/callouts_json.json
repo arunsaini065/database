@@ -617,6 +617,57 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/hi/hi_2.otf",
       "isPremium": 0
+    },
+    {
+      "title": "NICE",
+      "thumbnail": "/callouts/nicee/nicee.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/nicee/nicee_3.png",
+          "thumbnail": "/callouts/nicee/nicee_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/nicee/nicee_5.png",
+          "thumbnail": "/callouts/nicee/nicee_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/nicee/nicee_7.png",
+          "thumbnail": "/callouts/nicee/nicee_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/nicee/nicee_9.png",
+          "thumbnail": "/callouts/nicee/nicee_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/nicee/nicee_11.png",
+          "thumbnail": "/callouts/nicee/nicee_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/nicee/nicee_13.png",
+          "thumbnail": "/callouts/nicee/nicee_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/nicee/nicee_15.png",
+          "thumbnail": "/callouts/nicee/nicee_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/nicee/nicee_2.otf",
+      "isPremium": 0
     }
   ]
 }
