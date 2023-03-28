@@ -566,6 +566,57 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/thanks/thanks_2.otf",
       "isPremium": 0
+    },
+    {
+      "title": "Hi!",
+      "thumbnail": "/callouts/hi/hi.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/hi/hi_3.png",
+          "thumbnail": "/callouts/hi/hi_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hi/hi_5.png",
+          "thumbnail": "/callouts/hi/hi_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hi/hi_7.png",
+          "thumbnail": "/callouts/hi/hi_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hi/hi_9.png",
+          "thumbnail": "/callouts/hi/hi_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hi/hi_11.png",
+          "thumbnail": "/callouts/hi/hi_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hi/hi_13.png",
+          "thumbnail": "/callouts/hi/hi_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/hi/hi_15.png",
+          "thumbnail": "/callouts/hi/hi_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/hi/hi_2.otf",
+      "isPremium": 0
     }
   ]
 }
