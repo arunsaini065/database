@@ -821,6 +821,210 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/okk/okk_2.otf",
       "isPremium": 0
+    },
+    {
+      "title": "Smile",
+      "thumbnail": "/callouts/smile/smile.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/smile/smile_3.png",
+          "thumbnail": "/callouts/smile/smile_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/smile/smile_5.png",
+          "thumbnail": "/callouts/smile/smile_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/smile/smile_7.png",
+          "thumbnail": "/callouts/smile/smile_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/smile/smile_9.png",
+          "thumbnail": "/callouts/smile/smile_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/smile/smile_11.png",
+          "thumbnail": "/callouts/smile/smile_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/smile/smile_13.png",
+          "thumbnail": "/callouts/smile/smile_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/smile/smile_15.png",
+          "thumbnail": "/callouts/smile/smile_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/smile/smile_2.ttf",
+      "isPremium": 0
+    },
+    {
+      "title": "Sorry!",
+      "thumbnail": "/callouts/sorry/sorry.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/sorry/sorry_3.png",
+          "thumbnail": "/callouts/sorry/sorry_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/sorry/sorry_5.png",
+          "thumbnail": "/callouts/sorry/sorry_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/sorry/sorry_7.png",
+          "thumbnail": "/callouts/sorry/sorry_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/sorry/sorry_9.png",
+          "thumbnail": "/callouts/sorry/sorry_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/sorry/sorry_11.png",
+          "thumbnail": "/callouts/sorry/sorry_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/sorry/sorry_13.png",
+          "thumbnail": "/callouts/sorry/sorry_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/sorry/sorry_15.png",
+          "thumbnail": "/callouts/sorry/sorry_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/sorry/sorry_2.otf",
+      "isPremium": 0
+    },
+    {
+      "title": "WOW!",
+      "thumbnail": "/callouts/wow/wow.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/wow/wow_3.png",
+          "thumbnail": "/callouts/wow/wow_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/wow/wow_5.png",
+          "thumbnail": "/callouts/wow/wow_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/wow/wow_7.png",
+          "thumbnail": "/callouts/wow/wow_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/wow/wow_9.png",
+          "thumbnail": "/callouts/wow/wow_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/wow/wow_11.png",
+          "thumbnail": "/callouts/wow/wow_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/wow/wow_13.png",
+          "thumbnail": "/callouts/wow/wow_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/wow/wow_15.png",
+          "thumbnail": "/callouts/wow/wow_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/wow/wow_2.ttf",
+      "isPremium": 0
+    },
+    {
+      "title": "Yup",
+      "thumbnail": "/callouts/yup/yup.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/yup/yup_3.png",
+          "thumbnail": "/callouts/yup/yup_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/yup/yup_5.png",
+          "thumbnail": "/callouts/yup/yup_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/yup/yup_7.png",
+          "thumbnail": "/callouts/yup/yup_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/yup/yup_9.png",
+          "thumbnail": "/callouts/yup/yup_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/yup/yup_11.png",
+          "thumbnail": "/callouts/yup/yup_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/yup/yup_13.png",
+          "thumbnail": "/callouts/yup/yup_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/yup/yup_15.png",
+          "thumbnail": "/callouts/yup/yup_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/yup/yup_2.TTF",
+      "isPremium": 0
     }
   ]
 }
