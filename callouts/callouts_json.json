@@ -668,6 +668,159 @@
       "font_color": "#ffffff",
       "font_path": "/callouts/nicee/nicee_2.otf",
       "isPremium": 0
+    },
+    {
+      "title": "Cool!",
+      "thumbnail": "/callouts/cooll/cooll.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/cooll/cooll_3.png",
+          "thumbnail": "/callouts/cooll/cooll_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/cooll/cooll_5.png",
+          "thumbnail": "/callouts/cooll/cooll_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/cooll/cooll_7.png",
+          "thumbnail": "/callouts/cooll/cooll_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/cooll/cooll_9.png",
+          "thumbnail": "/callouts/cooll/cooll_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/cooll/cooll_11.png",
+          "thumbnail": "/callouts/cooll/cooll_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/cooll/cooll_13.png",
+          "thumbnail": "/callouts/cooll/cooll_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/cooll/cooll_15.png",
+          "thumbnail": "/callouts/cooll/cooll_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/cooll/cooll_2.TTF",
+      "isPremium": 0
+    },
+    {
+      "title": "No",
+      "thumbnail": "/callouts/no/no.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/no/no_3.png",
+          "thumbnail": "/callouts/no/no_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/no/no_5.png",
+          "thumbnail": "/callouts/no/no_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/no/no_7.png",
+          "thumbnail": "/callouts/no/no_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/no/no_9.png",
+          "thumbnail": "/callouts/no/no_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/no/no_11.png",
+          "thumbnail": "/callouts/no/no_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/no/no_13.png",
+          "thumbnail": "/callouts/no/no_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/no/no_15.png",
+          "thumbnail": "/callouts/no/no_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/no/no_2.TTF",
+      "isPremium": 0
+    },
+    {
+      "title": "Ok",
+      "thumbnail": "/callouts/okk/okk.png",
+      "top_layer": "",
+      "transX": 0,
+      "transY": 0,
+      "index": 2,
+      "back_layers": [
+        {
+          "path": "/callouts/okk/okk_3.png",
+          "thumbnail": "/callouts/okk/okk_4.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/okk/okk_5.png",
+          "thumbnail": "/callouts/okk/okk_6.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/okk/okk_7.png",
+          "thumbnail": "/callouts/okk/okk_8.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/okk/okk_9.png",
+          "thumbnail": "/callouts/okk/okk_10.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/okk/okk_11.png",
+          "thumbnail": "/callouts/okk/okk_12.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/okk/okk_13.png",
+          "thumbnail": "/callouts/okk/okk_14.png",
+          "font_color": "#ffffff"
+        },
+        {
+          "path": "/callouts/okk/okk_15.png",
+          "thumbnail": "/callouts/okk/okk_16.png",
+          "font_color": "#ffffff"
+        }
+      ],
+      "text_off_set_x": 0,
+      "text_off_set_y": 0,
+      "font_size": "12",
+      "font_color": "#ffffff",
+      "font_path": "/callouts/okk/okk_2.otf",
+      "isPremium": 0
     }
   ]
 }
