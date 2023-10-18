@@ -9,460 +9,137 @@
     "Lastupdated": "2022-10-11T12:15:00Z",
     "items": [
       {
-        "index": 1,
-        "postImage": "/diwali/1/mockup.png",
-        "bg": {
-          "color": "#ddab68",
-          "path": ""
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": ""
-            },
-            "fg": {
-              "path": "/diwali/1/1_bg.png"
-            },
-            "shape": "",
-            "width": 100,
-            "height": 100,
-            "offsetX": 0,
-            "offsetY": 0,
-            "margin": {
-              "top": 3.5,
-              "bottom": 3.5,
-              "end": 4.5,
-              "start": 4.5
-            }
-          }
-        ],
-        "stickerItems": [
-          {
-            "isLock": false,
-            "offsetX": 5.4,
-            "offsetY": 75.5,
-            "width": 20,
-            "height": 20,
-            "path": "/diwali/1/3_element.png",
-            "angle": 0
-          }
-        ]
-      },
-      {
-        "index": 2,
-        "postImage": "/diwali/2/mockup.png",
-        "bg": {
-          "color": "#900811",
-          "path": ""
-        },
-        "fg": {
-          "path": "/diwali/2/2_element.png"
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/2/3_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/2/3_shape_2.png"
-            },
-            "shape": "",
-            "width": 88,
-            "height": 54.5,
-            "offsetX": 6,
-            "offsetY": 13,
-            "margin": {
-              "top": 2.5,
-              "bottom": 2.5,
-              "end": 3.5,
-              "start": 3.5,
-              "tlr": 22,
-              "trr": 22,
-              "brr": 22,
-              "blr": 22
-            }
-          }
-        ]
-      },
-      {
-        "index": 3,
-        "postImage": "/diwali/3/mockup.png",
-        "bg": {
-          "color": "",
-          "path": "/diwali/3/1_bg.png"
-        },
-        "fg": {
-          "path": "/diwali/3/3_element.png"
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/3/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/3/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 88,
-            "height": 54.5,
-            "offsetX": 6,
-            "offsetY": 12,
-            "margin": {
-              "top": 2,
-              "bottom": 2,
-              "end": 3.5,
-              "start": 3.5,
-              "tlr": 22,
-              "trr": 0,
-              "brr": 22,
-              "blr": 0
-            }
-          }
-        ]
-      },
-      {
-        "index": 4,
-        "postImage": "/diwali/4/mockup.png",
-        "bg": {
-          "color": "#521d6d",
-          "path": ""
-        },
-        "fg": {
-          "path": "/diwali/4/3_element.png"
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/4/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/4/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 78,
-            "height": 80.5,
-            "offsetX": 12,
-            "offsetY": 7,
-            "margin": {
-              "top": 0.5,
-              "bottom": 0.5,
-              "end": 1.5,
-              "start": 1.5
-            }
-          }
-        ]
-      },
-      {
-        "index": 5,
-        "postImage": "/diwali/5/mockup.png",
-        "bg": {
-          "color": "#550647",
-          "path": ""
-        },
-        "fg": {
-          "path": "/diwali/5/3_element.png"
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/5/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/5/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 80,
-            "height": 64.5,
-            "offsetX": 10,
-            "offsetY": 16.9,
-            "margin": {
-              "top": 0.5,
-              "bottom": 0.5,
-              "end": 1,
-              "start": 1
-            }
-          }
-        ]
-      },
-      {
-        "index": 6,
-        "postImage": "/diwali/6/mockup.png",
-        "bg": {
-          "color": "#195266",
-          "path": ""
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/6/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/6/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 71,
-            "height": 74.5,
-            "offsetX": 15.5,
-            "offsetY": 12.9,
-            "margin": {
-              "top": 0.5,
-              "bottom": 0.5,
-              "end": 1,
-              "start": 1
-            }
-          }
-        ],
-        "stickerItems": [
-          {
-            "isLock": false,
-            "offsetX": 0,
-            "offsetY": 0,
-            "width": 28,
-            "height": 28,
-            "path": "/diwali/6/3_element_1.png",
-            "angle": 0
-          },
-          {
-            "isLock": false,
-            "offsetX": 8.8,
-            "offsetY": 64,
-            "width": 31.5,
-            "height": 31.5,
-            "path": "/diwali/6/3_element_2.png",
-            "angle": 0
-          }
-        ]
-      },
-      {
-        "index": 7,
-        "postImage": "/diwali/7/mockup.png",
-        "bg": {
-          "color": "#a10556",
-          "path": ""
-        },
-        "fg": {
-          "backLayer": true,
-          "path": "/diwali/7/2_element.png"
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/7/3_shape_2.png"
-            },
-            "fg": {
-              "path": "/diwali/7/3_shape_1.png"
-            },
-            "shape": "",
-            "width": 80,
-            "height": 46.3,
-            "offsetX": 10.4,
-            "offsetY": 10.5,
-            "margin": {
-              "top": 2.2,
-              "bottom": 2.2,
-              "end": 4,
-              "start": 4
-            }
-          }
-        ],
-        "stickerItems": [
-          {
-            "isLock": true,
-            "width": 84,
-            "height": 49,
-            "offsetX": 8,
-            "offsetY": 9,
-            "path": "/diwali/7/3_shape_3.png",
-            "angle": 0
-          }
-        ]
-      },
-      {
-        "index": 8,
-        "postImage": "/diwali/8/mockup.png",
-        "bg": {
-          "color": "#bc751b",
-          "path": ""
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/8/3_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/8/3_shape_2.png"
-            },
-            "shape": "",
-            "width": 88.5,
-            "height": 50.3,
-            "offsetX": 6.4,
-            "offsetY": 5,
-            "margin": {
-              "top": 1.2,
-              "bottom": 1.2,
-              "end": 2,
-              "start": 2
-            }
-          }
-        ],
-        "stickerItems": [
-          {
-            "isLock": true,
-            "width": 42.2,
-            "height": 42.2,
-            "offsetX": 0,
-            "offsetY": 57.8,
-            "path": "/diwali/8/2_element.png",
-            "angle": 0
-          }
-        ]
-      },
-      {
-        "index": 9,
-        "postImage": "/diwali/9/mockup.png",
-        "bg": {
-          "color": "#6e5493",
-          "path": ""
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": ""
-            },
-            "fg": {
-              "path": "/diwali/9/1_bg_2.png"
-            },
-            "shape": "",
-            "width": 100,
-            "height": 100,
-            "offsetX": 0,
-            "offsetY": 0,
-            "margin": {
-              "top": 3.5,
-              "bottom": 3.5,
-              "end": 4.5,
-              "start": 4.5
-            }
-          }
-        ],
-        "stickerItems": [
-          {
-            "isLock": false,
-            "offsetX": 0,
-            "offsetY": 53,
-            "width": 47,
-            "height": 47,
-            "path": "/diwali/9/2_element_2.png",
-            "angle": 0
-          }
-        ]
-      },
-      {
-        "index": 10,
-        "postImage": "/diwali/10/mockup.png",
-        "bg": {
-          "color": "#000000",
-          "path": "/diwali/10/1_bg.png"
-        },
-        "fg": {
-          "path": "/diwali/10/3_element.png"
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/10/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/10/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 74.5,
-            "height": 80,
-            "offsetX": 12.9,
-            "offsetY": 16,
-            "margin": {
-              "top": 3.2,
-              "bottom": 3.2,
-              "end": 7,
-              "start": 7
-            }
-          }
-        ],
-        "stickerItems": [
-          {
-            "isLock": true,
-            "width": 42.2,
-            "height": 42.2,
-            "offsetX": 0,
-            "offsetY": 57.8,
-            "path": "/diwali/10/2_element.png",
-            "angle": 0
-          }
-        ]
-      },
-      {
         "index": 11,
         "postImage": "/diwali/11/mockup.png",
         "bg": {
           "color": "#000000",
-          "path": "/diwali/11/2_shape_1.png"
+          "path": "/diwali/11/1_bg.jpg"
         },
         "fg": {
-          "path": "/diwali/11/2_shape_2.png"
+          "path": ""
         },
         "imageItems": [
           {
             "bg": {
               "color": "",
-              "path": "/diwali/10/2_shape_1.png"
+              "path": "/diwali/11/2_shape_1.png"
             },
             "fg": {
-              "path": "/diwali/10/2_shape_2.png"
+              "path": "/diwali/11/2_shape_2.png"
             },
             "shape": "",
             "width": 74.5,
-            "height": 80,
+            "height": 65,
             "offsetX": 12.9,
-            "offsetY": 16,
-            "margin": {
-              "top": 3.2,
-              "bottom": 3.2,
-              "end": 7,
-              "start": 7
-            }
+            "offsetY": 16
           }
-        ],
-        "stickerItems": [
+        ]
+      },
+      {
+        "index": 12,
+        "postImage": "/diwali/12/mockup.png",
+        "bg": {
+          "color": "#000000",
+          "path": "/diwali/12/1_bg.jpg"
+        },
+        "fg": {
+          "path": ""
+        },
+        "imageItems": [
           {
-            "isLock": true,
-            "width": 42.2,
-            "height": 42.2,
-            "offsetX": 0,
-            "offsetY": 57.8,
-            "path": "/diwali/10/2_element.png",
-            "angle": 0
+            "bg": {
+              "color": "",
+              "path": "/diwali/12/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/diwali/12/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 74.5,
+            "height": 65,
+            "offsetX": 12.9,
+            "offsetY": 16
+          }
+        ]
+      },
+      {
+        "index": 13,
+        "postImage": "/diwali/13/mockup.png",
+        "bg": {
+          "color": "#000000",
+          "path": "/diwali/13/1_bg.jpg"
+        },
+        "fg": {
+          "path": ""
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "",
+              "path": "/diwali/13/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/diwali/13/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 74.5,
+            "height": 75,
+            "offsetX": 12.9,
+            "offsetY": 16
+          }
+        ]
+      },
+      {
+        "index": 14,
+        "postImage": "/diwali/14/mockup.png",
+        "bg": {
+          "color": "#000000",
+          "path": "/diwali/14/1_bg.jpg"
+        },
+        "fg": {
+          "path": ""
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "",
+              "path": "/diwali/14/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/diwali/14/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 74.5,
+            "height": 75,
+            "offsetX": 12.9,
+            "offsetY": 16
+          }
+        ]
+      },
+      {
+        "index": 15,
+        "postImage": "/diwali/15/mockup.png",
+        "bg": {
+          "color": "#000000",
+          "path": "/diwali/15/1_bg.jpg"
+        },
+        "fg": {
+          "path": ""
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "",
+              "path": "/diwali/15/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/diwali/15/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 74.5,
+            "height": 75,
+            "offsetX": 12.9,
+            "offsetY": 16
           }
         ]
       }
