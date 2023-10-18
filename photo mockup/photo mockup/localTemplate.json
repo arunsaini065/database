@@ -10,10 +10,10 @@
     "items": [
       {
         "index": 11,
-        "postImage": "/diwali/11/mockup.png",
+        "postImage": "/halloween/11/mockup.png",
         "bg": {
           "color": "#000000",
-          "path": "/diwali/11/1_bg.jpg"
+          "path": "/halloween/11/1_bg.jpg"
         },
         "fg": {
           "path": ""
@@ -22,127 +22,20 @@
           {
             "bg": {
               "color": "",
-              "path": "/diwali/11/2_shape_1.png"
+              "path": "/halloween/11/2_shape_1.png"
             },
             "fg": {
-              "path": "/diwali/11/2_shape_2.png"
+              "path": "/halloween/11/2_shape_2.png"
             },
             "shape": "",
             "width": 74.5,
             "height": 65,
-            "offsetX": 12.9,
-            "offsetY": 16
-          }
-        ]
-      },
-      {
-        "index": 12,
-        "postImage": "/diwali/12/mockup.png",
-        "bg": {
-          "color": "#000000",
-          "path": "/diwali/12/1_bg.jpg"
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/12/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/12/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 74.5,
-            "height": 65,
-            "offsetX": 12.9,
-            "offsetY": 16
-          }
-        ]
-      },
-      {
-        "index": 13,
-        "postImage": "/diwali/13/mockup.png",
-        "bg": {
-          "color": "#000000",
-          "path": "/diwali/13/1_bg.jpg"
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/13/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/13/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 74.5,
-            "height": 75,
-            "offsetX": 12.9,
-            "offsetY": 16
-          }
-        ]
-      },
-      {
-        "index": 14,
-        "postImage": "/diwali/14/mockup.png",
-        "bg": {
-          "color": "#000000",
-          "path": "/diwali/14/1_bg.jpg"
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/14/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/14/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 74.5,
-            "height": 75,
-            "offsetX": 12.9,
-            "offsetY": 16
-          }
-        ]
-      },
-      {
-        "index": 15,
-        "postImage": "/diwali/15/mockup.png",
-        "bg": {
-          "color": "#000000",
-          "path": "/diwali/15/1_bg.jpg"
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/diwali/15/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/diwali/15/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 74.5,
-            "height": 75,
             "offsetX": 12.9,
             "offsetY": 16
           }
         ]
       }
+
     ]
   }
 }
