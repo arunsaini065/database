@@ -9,11 +9,11 @@
     "Lastupdated": "2022-10-11T12:15:00Z",
     "items": [
       {
-        "index": 11,
-        "postImage": "/halloween/11/mockup.png",
+        "index": 1,
+        "postImage": "/xmas/1/mockup.png",
         "bg": {
           "color": "#000000",
-          "path": "/halloween/11/1_bg.jpg"
+          "path": "/xmas/1/1_bg.jpg"
         },
         "fg": {
           "path": ""
@@ -22,20 +22,25 @@
           {
             "bg": {
               "color": "",
-              "path": "/halloween/11/2_shape_1.png"
+              "path": "/xmas/1/2_shape_1.png"
             },
             "fg": {
-              "path": "/halloween/11/2_shape_2.png"
+              "path": "/xmas/1/2_shape_2.png"
             },
             "shape": "",
-            "width": 74.5,
-            "height": 65,
-            "offsetX": 12.9,
-            "offsetY": 16
+            "width": 88,
+            "height": 70,
+            "offsetX": 6,
+            "offsetY": 5,
+            "margin": {
+              "tlr": 13,
+              "trr": 13,
+              "brr": 13,
+              "blr": 13
+            }
           }
         ]
       }
-
     ]
   }
 }
