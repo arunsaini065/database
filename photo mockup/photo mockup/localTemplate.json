@@ -288,6 +288,39 @@
             }
           }
         ]
+      },
+      {
+        "index": 7,
+        "postImage": "/xmas/7/mockup.jpg",
+        "bg": {
+          "color": "#000000",
+          "path": "/xmas/7/1_bg.jpg"
+        },
+        "fg": {
+          "path": "/xmas/7/3_element.png"
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "#410D11",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/7/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 86,
+            "height": 80,
+            "offsetX": 6,
+            "offsetY": 9,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          }
+        ]
       }
     ]
   }
