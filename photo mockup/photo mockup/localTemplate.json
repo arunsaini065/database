@@ -231,7 +231,7 @@
           "path": "/xmas/5/1_bg.jpg"
         },
         "fg": {
-          "path": "/xmas/5/3_element.png"
+          "path": ""
         },
         "imageItems": [
           {
@@ -244,14 +244,14 @@
             },
             "shape": "",
             "width": 86,
-            "height": 80,
-            "offsetX": 6,
+            "height": 83,
+            "offsetX": 7,
             "offsetY": 9,
             "margin": {
-              "tlr": 0,
-              "trr": 0,
-              "brr": 0,
-              "blr": 0
+              "tlr": 28,
+              "trr": 28,
+              "brr": 28,
+              "blr": 28
             }
           }
         ]
@@ -493,5 +493,6 @@
         ]
       }
     ]
+
   }
 }
