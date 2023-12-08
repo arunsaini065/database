@@ -61,62 +61,6 @@
           }
         ]
       }
-    ],
-    "items": [
-      {
-        "index": 2,
-        "postImage": "/xmas/2/mockup.jpg",
-        "bg": {
-          "color": "#000000",
-          "path": "/xmas/2/1_bg.jpg"
-        },
-        "fg": {
-          "path": ""
-        },
-        "imageItems": [
-          {
-            "bg": {
-              "color": "",
-              "path": "/xmas/2/2_shape_1.png"
-            },
-            "fg": {
-              "path": "/xmas/2/2_shape_2.png"
-            },
-            "shape": "",
-            "width": 88,
-            "height": 66,
-            "offsetX": 6,
-            "offsetY": 15,
-            "margin": {
-              "tlr": 25,
-              "trr": 25,
-              "brr": 25,
-              "blr": 25
-            }
-          }
-
-        ],
-        "stickerItems": [
-          {
-            "isLock": false,
-            "offsetX": 0,
-            "offsetY": 0,
-            "width": 20,
-            "height": 20,
-            "path": "/xmas/1/3_element_1.png",
-            "angle": 0
-          }, {
-            "isLock": false,
-            "offsetX": 0,
-            "offsetY": 70,
-            "width": 30,
-            "height": 30,
-            "path": "/xmas/1/3_element_2.png",
-            "angle": 0
-          }
-        ]
-      }
     ]
-
   }
 }
