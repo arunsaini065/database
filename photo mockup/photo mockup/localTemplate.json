@@ -458,6 +458,39 @@
             "angle": 0
           }
         ]
+      },
+      {
+        "index": 10,
+        "postImage": "/xmas/10/mockup.jpg",
+        "bg": {
+          "color": "#000000",
+          "path": "/xmas/10/1_bg.jpg"
+        },
+        "fg": {
+          "path": "/xmas/10/3_element.png"
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "#410D11",
+              "path": "/xmas/10/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/xmas/10/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 87,
+            "height": 88,
+            "offsetX": 6,
+            "offsetY": 6,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          }
+        ]
       }
     ]
   }
