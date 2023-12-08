@@ -321,6 +321,79 @@
             }
           }
         ]
+      },
+      {
+        "index": 8,
+        "postImage": "/xmas/8/mockup.jpg",
+        "bg": {
+          "color": "#000000",
+          "path": "/xmas/8/1_bg.jpg"
+        },
+        "fg": {
+          "path": "/xmas/8/3_element.png"
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "#006B83",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/8/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 70,
+            "height": 36,
+            "offsetX": 6,
+            "offsetY": 5.5,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          },
+          {
+            "bg": {
+              "color": "#006B83",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/8/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 66,
+            "height": 35,
+            "offsetX": 30,
+            "offsetY": 36,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          },
+          {
+            "bg": {
+              "color": "#006B83",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/8/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 64,
+            "height": 34,
+            "offsetX": 5,
+            "offsetY": 64,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          }
+        ]
       }
     ]
   }
