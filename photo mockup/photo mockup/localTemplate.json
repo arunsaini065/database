@@ -60,6 +60,135 @@
             "angle": 0
           }
         ]
+      },
+      {
+        "index": 2,
+        "postImage": "/xmas/2/mockup.jpg",
+        "bg": {
+          "color": "#000000",
+          "path": "/xmas/2/1_bg.jpg"
+        },
+        "fg": {
+          "path": "/xmas/2/3_element.png"
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "#230A13",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/2/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 60,
+            "height": 32,
+            "offsetX": 31,
+            "angle": 10,
+            "offsetY": 5.5,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          },
+          {
+            "bg": {
+              "color": "#230A13",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/2/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 60,
+            "height": 32,
+            "offsetX": 11,
+            "angle": -10,
+            "offsetY": 34,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          },
+          {
+            "bg": {
+              "color": "#230A13",
+              "path": ""
+            },
+            "fg": {
+              "path": "/xmas/2/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 60,
+            "height": 32,
+            "offsetX": 30,
+            "angle": 10,
+            "offsetY": 62.5,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "postImage": "/xmas/3/mockup.jpg",
+        "bg": {
+          "color": "#000000",
+          "path": "/xmas/3/1_bg.jpg"
+        },
+        "fg": {
+          "path": "/xmas/3/3_element.png"
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "#0D1E14",
+              "path": "/xmas/3/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/xmas/3/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 68,
+            "height": 38,
+            "offsetX": 4,
+            "offsetY": 12,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          },
+          {
+            "bg": {
+              "color": "#0D1E14",
+              "path": "/xmas/3/2_shape_3.png"
+            },
+            "fg": {
+              "path": "/xmas/3/2_shape_4.png"
+            },
+            "shape": "",
+            "width": 78,
+            "height": 44,
+            "offsetX": 16,
+            "offsetY": 45,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          }
+        ]
       }
     ]
   }
