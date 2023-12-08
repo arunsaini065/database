@@ -189,6 +189,39 @@
             }
           }
         ]
+      },
+      {
+        "index": 4,
+        "postImage": "/xmas/4/mockup.jpg",
+        "bg": {
+          "color": "#000000",
+          "path": "/xmas/4/1_bg.jpg"
+        },
+        "fg": {
+          "path": "/xmas/4/3_element.png"
+        },
+        "imageItems": [
+          {
+            "bg": {
+              "color": "#0D1E14",
+              "path": "/xmas/4/2_shape_1.png"
+            },
+            "fg": {
+              "path": "/xmas/4/2_shape_2.png"
+            },
+            "shape": "",
+            "width": 90,
+            "height": 63,
+            "offsetX": 5,
+            "offsetY": 3,
+            "margin": {
+              "tlr": 0,
+              "trr": 0,
+              "brr": 0,
+              "blr": 0
+            }
+          }
+        ]
       }
     ]
   }
